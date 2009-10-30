@@ -15,3 +15,6 @@ en:
   general:
     thank_you_contact: 'Thank you for your message.  A member of our team will respond to you shortly.'
     send: 'Send'
+    delete_file: "Delete File"
+  folksemantic:
+    credits: Developed by <a href="http://www.tatemae.com">Tatemae</a> for the <a href="http://cosl.usu.edu">Center for Open and Sustainable Learning</a> with funding from the <a href="http://nsf.gov/">National Science Foundation</a> and the <a href="http://www.mellon.org/">Andrew W Mellon Foundation</a>

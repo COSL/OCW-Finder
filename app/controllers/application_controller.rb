@@ -1,5 +1,7 @@
 class ApplicationController < ActionController::Base
   
+  acts_as_muck_content_handler
+  
   include SslRequirement
   layout 'default'
     

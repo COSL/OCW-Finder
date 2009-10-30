@@ -12,6 +12,19 @@ require File.join(File.dirname(__FILE__), 'boot')
 
 
 Rails::Initializer.run do |config|
+  config.gem 'acts-as-taggable-on'
+  config.gem 'awesome_nested_set'
+  config.gem 'muck-activities', :lib => 'muck_activities'
+  config.gem 'muck-profiles', :lib => 'muck_profiles'
+  config.gem 'muck-shares', :lib => 'muck_shares'
+  config.gem 'river'
+  config.gem 'httparty'
+  config.gem 'nokogiri'
+  config.gem 'pauldix-feedzirra', :lib => 'feedzirra', :source => 'http://gems.github.com'
+  config.gem 'muck-feedbag', :lib => 'feedbag', :source => 'http://gems.github.com'
+  config.gem 'muck-raker', :lib => 'muck_raker'
+  config.gem 'muck-solr', :lib => 'acts_as_solr'
+  config.gem 'babelphish'
   config.gem 'action_mailer_tls', :lib => 'smtp_tls'
   config.gem 'friendly_id'
   config.gem 'thoughtbot-paperclip', :lib => 'paperclip', :source => 'http://gems.github.com'
@@ -21,6 +34,8 @@ Rails::Initializer.run do |config|
   config.gem 'authlogic', :lib => 'authlogic'
   config.gem 'muck-users', :lib => 'muck_users'
   config.gem 'muck-engine', :lib => 'muck_engine'
+  config.gem 'muck-contents', :lib => 'muck_contents'
+  
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers
   # -- all .rb files in that directory are automatically loaded.

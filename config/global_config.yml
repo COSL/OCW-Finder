@@ -1,7 +1,33 @@
 default: &DEFAULT
+  # activity configuration
+  enable_live_activity_updates: true              # Turns on polling inside the user's activity feed so they constantly get updates from the site
+  live_activity_update_interval: 60               # Time between updates to live activity feed in seconds.  Setting this number to low can put quite a bit of strain on your site.
+  enable_activity_comments: true                  # Turn on comments inside the activity feed
+  enable_activity_file_uploads: true # Turn on file uploads in the activity feed.  Requires that uploader be installed.
+  enable_activity_image_uploads: true # Turn on image uploads in the activity feed.  Requires that uploader and muck_albums be installed.
+  enable_activity_video_sharing: true # Turn on video sharing in the activity feed.
+
+  
+  # Muck raker options
+  inform_admin_of_global_feed: true
+  enable_raker_comments: true
+  enable_raker_shares: true
+  
+  # Get these values from your Amazon account.  They are required if you wish to access any of Amazon's APIs
+  amazon_secret_access_key: ''  # This is the secret value provided by amazon.   This value is hidden by default.
+  amazon_access_key_id: ''  # This is your access key id.  This value is not hidden by default.
+  amazon_associate_tag: ''
+  ecs_to_rss_wishlist: "http://www.example.com/ecs_to_rss-wishlist.xslt"  # url of xslt stylesheet for transforming amazon xml.  This stylesheet is provided by the 'river' gem
+  
+  # Google ajax api key is optional but recommended by google.  Get one here: http://code.google.com/apis/ajaxsearch/signup.html
+  google_ajax_api_key: ''
+  show_google_search: true        # Determines whether or not a google search is displayed on the topic page
+  load_feeds_on_server: false     # Determines whether feeds on a topic page are loaded on the server or the client.  Loading on the server can take a while
+  combine_feeds_on_server: false  # Combines feeds loaded on the server
+
   # All fields that need to be changed are marked with 'TODO'
 
-  application_name: OCWFinder
+  application_name: OpenCourseWare Finder
 
   # Sent in emails to users
   from_email: 'support@TODO.com'           # Emails will come from this address i.e. noreply@example.com, support@example.com, system@example.com, etc
@@ -22,6 +48,11 @@ default: &DEFAULT
   base_domain: ocwfindercom             # Domain name for your application without any subdomain or other settings.
 
   
+  # Content - see muck-contents readme for more information
+  enable_auto_translations: false # If enabled all content will be translated into all available languages on each save.  Requires babelphish gem
+  content_enable_solr: #{install_solr ? 'true' : 'false'} # requires that solr be installed
+  content_git_repository: false # use a backend git repository for source control
+  git_repository: '' # path to git repository to use for content version control
   
   # sign up options
   automatically_activate: true                    # Automatically activate a user after signup.  If this is false the user will need to click on a link or answer a captcha to activate their account.
