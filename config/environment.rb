@@ -34,7 +34,6 @@ Rails::Initializer.run do |config|
   config.gem 'authlogic', :lib => 'authlogic'
   config.gem 'muck-users', :lib => 'muck_users'
   config.gem 'muck-engine', :lib => 'muck_engine'
-  config.gem 'muck-contents', :lib => 'muck_contents'
   
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers

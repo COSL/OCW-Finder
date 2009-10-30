@@ -12,18 +12,15 @@ h2{font-size:18px;font-weight:bold;color:#333;}
 h3{font-size:14px;font-weight:bold;color:#333;}
 .big-text{font-size:18px;}
 /* header */
-#logo{height:80px;}
+#logo{}
 #header{width:100%;height:84px;margin:0;background-image:url('/images/folksemantic/bg-hdr.jpg');background-repeat:no-repeat;}
-#tag-line {font-size:1em;color:#003B67;margin-top:-32px;margin-left:69px;}
-#take-tour{text-align:center;padding:13px 0;}
-#take-tour a{font-size:1.6em;font-weight:bold;color:white;border:solid 1px #003B67;background:#66B022;width:140px;padding:10px 16px;text-decoration:none;}
-#search-controls {margin:2px 0;text-align:right;}
-#search-controls input[type='text']{margin:6px 2px 0px 2px;width:180px;}
-#search-controls input[type='submit']{padding:2px;margin:2px 8px 3px 2px;}
-#search-box{text-align:center;color:gray;}
-#user-login{text-align:right;margin-right:15px}
 #current-locale-flag{vertical-align:middle;}
-#user-login select{margin:0;}
+#top-links{float:right;margin:3px 30px;}
+#top-links a{font-weight:bold;color:#2B7EAA;text-decoration:none;font-size:1em;}
+#top-links a:hover{text-decoration:underline;}
+#signup-links{margin:3px 5px;}
+#signup-links a{font-weight:bold;color:#2B7EAA;text-decoration:none;font-size:1.4em;}
+#signup-links a:hover{text-decoration:underline;}
 /* footer */
 #footer{text-align:center;padding-top:6px;padding-bottom:6px;margin:20px auto;font-size:90%;background-color:#EAF4FF;width:100%;}
 #footer a{text-decoration:none;}

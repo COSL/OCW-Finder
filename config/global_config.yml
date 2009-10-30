@@ -78,8 +78,8 @@ default: &DEFAULT
   hoptoad_key: 'TODO get a hoptoad key'           # Get a Hoptoad key here: http://hoptoadapp.com/welcome
 
   # Google analtyics configuration
-  google_tracking_code: ""
-  google_tracking_set_domain: ""
+  google_tracking_code: "UA-9685460-2"
+  google_tracking_set_domain: "ocwfinder.com"
   
 production:
   <<: *DEFAULT
