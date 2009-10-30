@@ -21,6 +21,7 @@ h3{font-size:14px;font-weight:bold;color:#333;}
 #signup-links{margin:3px 5px;}
 #signup-links a{font-weight:bold;color:#2B7EAA;text-decoration:none;font-size:1.4em;}
 #signup-links a:hover{text-decoration:underline;}
+#course_browser{width:600px;margin:0px auto 15px;border-bottom:1px solid #CCC;border-right:1px solid #CCC;}
 /* footer */
 #footer{text-align:center;padding-top:6px;padding-bottom:6px;margin:20px auto;font-size:90%;background-color:#EAF4FF;width:100%;}
 #footer a{text-decoration:none;}

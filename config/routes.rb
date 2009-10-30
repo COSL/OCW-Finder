@@ -1,13 +1,17 @@
 ActionController::Routing::Routes.draw do |map|
-
-  map.home '', :controller => 'default', :action => 'index'
-  map.root :controller => 'default', :action => 'index'
+  
+  map.connect '/tags/:language', :controller => 'tags', :action => 'index'
+  
+  map.connect '/', :controller => 'entries'
+  map.home '', :controller => 'entries'
+  map.root :controller => 'entries'
+  
+  map.resources :entries
   map.resources :comments
-  map.resources :contents
 
   # top level pages
   map.contact '/contact', :controller => 'default', :action => 'contact'
-  map.sitemap '/sitemap', :controller => 'default', :action => 'sitemap'
+  map.sitemap '/about', :controller => 'default', :action => 'about'
   map.ping '/ping', :controller => 'default', :action => 'ping'
   
 end

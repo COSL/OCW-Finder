@@ -1,0 +1,32 @@
+<script type="text/javascript">
+function focusSearch(field) {
+  field.value = "";
+  field.style.color = "black";
+}
+</script>
+<form onsubmit="return false;">
+  <div style="text-align:center;margin:10px 0 20px;">
+    <input id="q" name="q" size="30" style="text-align:center;color:#666;font-size:18px;" onkeyup="filterCourses(this.value)" autocomplete="off" type="text" value="search courses" onClick="focusSearch(this);">
+  </div>
+
+  <div id="course_browser">
+    <h2>Or browse courses by tag</h2>
+    <div id="browser">
+      <div id="br1" class="browserPane"></div>
+      <div id="br2" class="browserPane"></div>
+      <div id="br3" class="browserPane"></div>
+      <!--	<div id="br4" class="browserPane"></div>
+      <div id="br5" class="browserPane"></div>
+      <div id="br6" class="browserPane"></div>
+      -->
+    </div>
+  </div>
+
+  <div id="courses">
+
+  </div>
+</form>
+<script type="text/javascript">
+  var sLanguage='<%= I18n.locale.to_s %>';
+  loadFirstTagColumn();
+</script>

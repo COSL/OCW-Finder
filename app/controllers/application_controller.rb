@@ -1,6 +1,5 @@
 class ApplicationController < ActionController::Base
   
-  include SslRequirement
   layout 'default'
     
   helper :all # include all helpers, all the time
@@ -12,14 +11,6 @@ class ApplicationController < ActionController::Base
   # user should have access to the admin UI
   def admin_access?
     access_denied unless admin?
-  end
-  
-  # only require ssl if we are in production
-  def ssl_required?
-    return ENV['SSL'] == 'on' ? true : false if defined? ENV['SSL']
-    return false if local_request?
-    return false if RAILS_ENV == 'test'
-    ((self.class.read_inheritable_attribute(:ssl_required_actions) || []).include?(action_name.to_sym)) && (RAILS_ENV == 'production' || RAILS_ENV == 'staging')
   end
   
   def setup_paging

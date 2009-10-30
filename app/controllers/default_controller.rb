@@ -1,11 +1,5 @@
 class DefaultController < ApplicationController
 
-  def index
-    respond_to do |format|
-      format.html { render }
-    end
-  end
-
   def contact
     return unless request.post?
     body = []
@@ -19,7 +13,7 @@ class DefaultController < ApplicationController
     redirect_to contact_url    
   end
 
-  def sitemap
+  def about
     respond_to do |format|
       format.html { render }
     end
