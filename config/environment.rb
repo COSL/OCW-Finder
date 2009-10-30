@@ -24,6 +24,7 @@ Rails::Initializer.run do |config|
   config.gem 'muck-users', :lib => 'muck_users'
   config.gem 'muck-raker', :lib => 'muck_raker'
   config.gem 'muck-solr', :lib => 'acts_as_solr'
+  config.gem 'muck-shares', :lib => 'muck_shares'
     
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers

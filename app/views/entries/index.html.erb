@@ -8,11 +8,14 @@ function focusSearch(field) {
   <div style="text-align:center;margin:10px 0 20px;">
     <input id="q" name="q" size="30" style="text-align:center;color:#666;font-size:18px;" onkeyup="filterCourses(this.value)" autocomplete="off" type="text" value="search courses" onClick="focusSearch(this);">
   </div>
-
   <div id="course_browser">
     <h2>Or browse courses by tag</h2>
     <div id="browser">
-      <div id="br1" class="browserPane"></div>
+      <div id="br1" class="browserPane">
+        <% tag_list(@tag_cloud) do |tag, frequency| -%>
+          <%= render :partial => 'tags/tag_link', :object => tag, :locals => { :level => 2, :tags => "", :frequency => frequency } %>
+        <% end %>
+      </div>
       <div id="br2" class="browserPane"></div>
       <div id="br3" class="browserPane"></div>
       <!--	<div id="br4" class="browserPane"></div>
@@ -21,12 +24,9 @@ function focusSearch(field) {
       -->
     </div>
   </div>
-
   <div id="courses">
-
   </div>
 </form>
 <script type="text/javascript">
-  var sLanguage='<%= I18n.locale.to_s %>';
-  loadFirstTagColumn();
+var sLanguageCode='<%= I18n.locale %>';
 </script>

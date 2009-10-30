@@ -25,16 +25,14 @@ function loadRepositoryList() {
 	new Ajax.Updater('rl', SERVER_PATH + '/feed_list', {asynchronous:true, evalScripts:true, method:'get'});
 }
 
-function loadFirstTagColumn() {
-	new Ajax.Updater('br1', SERVER_PATH + '/tags/' + sLanguage, {asynchronous:true, evalScripts:true, method:'get'});
-}
-
-function showTags(sTag, nLevel) {
-	new Ajax.Updater('br' + nLevel, SERVER_PATH + '/overlapping_tags/' + sLanguageCode + "/" + nLevel + "/" + sTag, {asynchronous:true, evalScripts:true, method:'get'});
+function showTags(sTag, level) {
+	jQuery("#br" + level).load(SERVER_PATH + 'resources/tags/' + sTags + '?grain_size=course');
+	//new Ajax.Updater('br' + nLevel, SERVER_PATH + '/overlapping_tags/' + sLanguageCode + "/" + nLevel + "/" + sTag, {asynchronous:true, evalScripts:true, method:'get'});
 }
 
 function showCourses(sTags) {
-	new Ajax.Updater('courses', SERVER_PATH + '/courses/' + sTags, {asynchronous:true, evalScripts:true, method:'get'});
+	jQuery("#courses").load(SERVER_PATH + 'resources/tags/' + sTags + '?grain_size=course');
+	//new Ajax.Updater('courses', SERVER_PATH + '/courses/' + sTags, {asynchronous:true, evalScripts:true, method:'get'});
 }
 
 function showDetails(bShow) {

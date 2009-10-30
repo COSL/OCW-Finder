@@ -1,0 +1,9 @@
+<div class="course">
+<p><a onmouseout="nl(this)" onmouseover="hl(this)" target="_blank" title="" href="<%= course.permalink %>"><%= highlight_terms(course.title) %></a>
+<%= link_to_function "Show Details", "toggleItemDetails(" + course_counter.to_s + ")", :id => "l_" + course_counter.to_s, :class => "show_link" %>
+</p>
+<div id="detail_<%= course_counter %>" style="display:none">
+<p class="course-description"><%= course.description %></p>
+<p class="course-tags"><strong>Tags:</strong> <%= highlight_tags(course.tag_list) %></p>
+</div>
+</div> 

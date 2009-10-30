@@ -1,5 +1,5 @@
 /* global */
-a{color:#003B67;}
+a{color:#0568b2;}
 a:visited{color:#003B67;}
 a:hover{color:#003B67;}
 .container{min-width:720px;max-width:1050px;width:90%;margin:0 auto;}
@@ -42,3 +42,38 @@ h3{font-size:14px;font-weight:bold;color:#333;}
 .results-nav{margin:12px;text-align:center;}
 .results-nav a{margin:0px 3px;}
 .results-nav .current{margin:0px 3px;font-weight:bold;color:#A90A07;}
+
+a.x{font-weight:normal;color:#336699;}
+.soOn{background:#bcc;}
+.soOff{background:#ccc;}
+.st0{background:#ec6;}
+.st1{background:#ade;}
+.st2{background:#ce6;}
+.st3{background:#e96;}
+.st4{background:#ead;}
+#q{color:#999999;}
+.browserPane{position:absolute;font-size:1em;line-height:130%;overflow:auto;width:200px;height:190px;padding:5px 0;border-left:1px solid #ccc;}
+.browserPane a{font-weight:normal;}
+.browserPane p{margin:0;padding:0 4px;}
+.browserPane .c{color:#666;}
+#mast{padding:5px 0 5px 0;}
+#mast img{float:left;padding:2px 10px 0 0;}
+#browser{position:relative;overflow:hidden;height:200px;width:100%}
+#rl{left:0;}
+#br1{left:0px;}
+#br2{left:200px;}
+#br3{left:400px;}
+#br4{left:600px;}
+#br5{left:800px;}
+#br6{left:1000px;}
+#topRight{font-size:10pt;}
+#ps{margin-top:5px;}
+#ft{font-size:.7em;color:#555;}
+.desc{font-size:.85em;}
+.course{font-size:.8em;border-bottom:1px dotted #ddd;}
+.course a{font-weight:bold;}
+.course p{margin:0 5px;padding:3px 0;}
+.show_link{color:#888;}
+.fieldWithErrors{border:3px solid red;padding:3px;margin:0px;}
+.notice{font-weight:bold;}
+#courses{width:600px;margin:0 auto;}
