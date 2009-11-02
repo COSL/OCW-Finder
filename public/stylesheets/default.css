@@ -77,3 +77,23 @@ a.x{font-weight:normal;color:#336699;}
 .fieldWithErrors{border:3px solid red;padding:3px;margin:0px;}
 .notice{font-weight:bold;}
 #courses{width:600px;margin:0 auto;}
+
+h2 {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+-x-system-font:none;
+background:#999999 none repeat scroll 0 0;
+border:1px solid #AAAAAA;
+color:#FFFFFF;
+font-family:tahoma,sans-serif;
+font-size:0.7em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:bold;
+line-height:normal;
+margin:5px 0 0;
+padding:3px;
+}

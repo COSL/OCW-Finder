@@ -1,0 +1,3 @@
+<% tag_list(@tag_cloud) do |tag, frequency| -%>
+  <%= render :partial => 'tags/tag_link', :object => tag, :locals => { :level => @level, :tags => "", :frequency => frequency } %>
+<% end %>

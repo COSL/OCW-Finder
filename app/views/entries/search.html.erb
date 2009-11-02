@@ -1,0 +1,5 @@
+<div>
+  <%= render(:partial => 'entries/result_status') %>
+  <%= render(:partial => 'entries/results') %>
+  <div class="results-nav"><%= will_paginate(@paginated_results, :next_label => '<b>' + t('muck.raker.next_label') + ' &raquo;</b>', :previous_label => '<b>&laquo; ' + t('muck.raker.previous_label') + '</b>') %></div>
+</div>

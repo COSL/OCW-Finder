@@ -18,3 +18,7 @@ en:
     delete_file: "Delete File"
   folksemantic:
     credits: Developed by <a href="http://www.tatemae.com">Tatemae</a> for the <a href="http://cosl.usu.edu">Center for Open and Sustainable Learning</a> with funding from the <a href="http://nsf.gov/">National Science Foundation</a> and the <a href="http://www.mellon.org/">Andrew W Mellon Foundation</a>
+  ocwfinder:
+    explore: "Search the web for {{topic}}"
+    no_courses_found: No courses were found.
+

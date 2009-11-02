@@ -1,0 +1,15 @@
+<div id="results-description" class="block">
+  <div class="column span-24 align-right">
+    <span>
+      <% if @results.size > 0 %>
+        <%= results_status %>
+      <% else %>
+        <%= t('ocwfinder.no_courses_found') %>
+      <% end %>
+      &nbsp;&nbsp;
+      <%= link_to('[' + t('muck.raker.show_tagged_resources') + ']', @main_domain + '/resources/search?q=' + URI.escape(@search)) %>
+      &nbsp;&nbsp;
+      <%= link_to('[' + t('ocwfinder.explore', :topic => @search.titleize) + ']', @main_domain + topic_path(URI.escape(@search))) %>
+    </span>
+  </div>
+</div>

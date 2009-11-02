@@ -1,6 +1,7 @@
 ActionController::Routing::Routes.draw do |map|
   
-  map.connect '/tags/:language', :controller => 'tags', :action => 'index'
+  map.connect 'resources/tags/*tags', :controller => 'entries', :action => 'browse_by_tags'
+  map.search_resources 'resources/search', :controller => 'entries', :action => 'search'
   
   map.connect '/', :controller => 'entries'
   map.home '', :controller => 'entries'
