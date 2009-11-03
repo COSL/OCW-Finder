@@ -4,12 +4,16 @@
       <% if @results.size > 0 %>
         <%= results_status %>
       <% else %>
-        <%= t('ocwfinder.no_courses_found') %>
+        <%= t('ocwfinder.no_courses_found', :query => @search) %>
       <% end %>
       &nbsp;&nbsp;
-      <%= link_to('[' + t('muck.raker.show_tagged_resources') + ']', @main_domain + '/resources/search?q=' + URI.escape(@search)) %>
+      <%= link_to('[' + t('ocwfinder.show_tagged_resources') + ']', @main_domain + '/resources/search?q=' + URI.escape(@search)) %>
       &nbsp;&nbsp;
       <%= link_to('[' + t('ocwfinder.explore', :topic => @search.titleize) + ']', @main_domain + topic_path(URI.escape(@search))) %>
+      <% if @search_type == 'search' %>
+      &nbsp;&nbsp;
+      <%= link_to('[' + t('ocwfinder.browse_by_tags') + ']', '/') %>
+      <% end %>
     </span>
   </div>
 </div>

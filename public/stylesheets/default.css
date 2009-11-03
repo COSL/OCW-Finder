@@ -51,7 +51,8 @@ a.x{font-weight:normal;color:#336699;}
 .st2{background:#ce6;}
 .st3{background:#e96;}
 .st4{background:#ead;}
-#q{color:#999999;}
+#query_box{color:#999999;text-align:center;color:#666;font-size:18px;}
+#search_controls{text-align:center;margin:10px 0 20px;}
 .browserPane{position:absolute;font-size:1em;line-height:130%;overflow:auto;width:200px;height:190px;padding:5px 0;border-left:1px solid #ccc;}
 .browserPane a{font-weight:normal;}
 .browserPane p{margin:0;padding:0 4px;}
@@ -87,7 +88,7 @@ background:#999999 none repeat scroll 0 0;
 border:1px solid #AAAAAA;
 color:#FFFFFF;
 font-family:tahoma,sans-serif;
-font-size:0.7em;
+font-size:1em;
 font-size-adjust:none;
 font-stretch:normal;
 font-style:normal;
@@ -97,3 +98,5 @@ line-height:normal;
 margin:5px 0 0;
 padding:3px;
 }
+h2 a{color:white;}
+h2 a:visited{color:white;}

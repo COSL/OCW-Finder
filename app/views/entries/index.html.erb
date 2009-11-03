@@ -5,28 +5,21 @@ function focusSearch(field) {
 }
 </script>
 <form onsubmit="return false;">
-  <div style="text-align:center;margin:10px 0 20px;">
-    <input id="q" name="q" size="30" style="text-align:center;color:#666;font-size:18px;" onkeyup="filterCourses(this.value)" autocomplete="off" type="text" value="search courses" onClick="focusSearch(this);">
+  <div id="search_controls">
+    <input id="query_box" name="q" size="30" onkeyup="filterCourses(this.value)" autocomplete="off" type="text" value="search courses" onClick="focusSearch(this);">
   </div>
   <div id="course_browser">
-    <h2>Or browse courses by tag</h2>
+    <h2><%= t('ocwfinder.browse_courses') %>&nbsp; &nbsp; &nbsp; &nbsp;<%= link_to('[' + t('ocwfinder.use_tag_cloud') + ']', @main_domain + '/resources?grain_size=course') %></h2>
     <div id="browser">
       <div id="br1" class="browserPane">
         <% tag_list(@tag_cloud) do |tag, frequency| -%>
-          <%= render :partial => 'tags/tag_link', :object => tag, :locals => { :level => 2, :tags => "", :frequency => frequency } %>
+          <%= render :partial => 'tags/tag_link', :object => tag, :locals => { :level => 1, :tags => "", :frequency => frequency } %>
         <% end %>
       </div>
       <div id="br2" class="browserPane"></div>
       <div id="br3" class="browserPane"></div>
-      <!--	<div id="br4" class="browserPane"></div>
-      <div id="br5" class="browserPane"></div>
-      <div id="br6" class="browserPane"></div>
-      -->
     </div>
   </div>
   <div id="courses">
   </div>
 </form>
-<script type="text/javascript">
-var sLanguageCode='<%= I18n.locale %>';
-</script>
