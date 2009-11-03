@@ -18,14 +18,10 @@ Rails::Initializer.run do |config|
   config.gem 'friendly_id'
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
   config.gem 'mislav-will_paginate', :lib => 'will_paginate', :source => 'http://gems.github.com'
-  config.gem 'searchlogic', :lib => 'searchlogic'
-  config.gem 'authlogic', :lib => 'authlogic'
   config.gem 'muck-engine', :lib => 'muck_engine'
-  config.gem 'muck-users', :lib => 'muck_users'
   config.gem 'muck-raker', :lib => 'muck_raker'
   config.gem 'muck-solr', :lib => 'acts_as_solr'
-  config.gem 'muck-shares', :lib => 'muck_shares'
-    
+
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers
   # -- all .rb files in that directory are automatically loaded.
