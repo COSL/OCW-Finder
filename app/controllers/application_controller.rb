@@ -7,6 +7,10 @@ class ApplicationController < ActionController::Base
     
   protected
   
+  def current_user
+    nil
+  end
+  
   def setup_paging
     @page = (params[:page] || 1).to_i
     @page = 1 if @page < 1
