@@ -17,8 +17,9 @@ Rails::Initializer.run do |config|
   config.gem 'action_mailer_tls', :lib => 'smtp_tls'
   config.gem 'friendly_id'
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
-  config.gem 'mislav-will_paginate', :lib => 'will_paginate', :source => 'http://gems.github.com'
+  config.gem 'will_paginate'
   config.gem 'muck-engine', :lib => 'muck_engine'
+  config.gem 'muck-services', :lib => 'muck_services'
   config.gem 'muck-raker', :lib => 'muck_raker'
   config.gem 'muck-solr', :lib => 'acts_as_solr'
 
