@@ -7,6 +7,11 @@ class ApplicationController < ActionController::Base
     
   protected
   
+  def permanent_redirect(url)
+    headers["Status"] = "301 Moved Permanently"
+    redirect_to url
+  end
+  
   def current_user
     nil
   end
