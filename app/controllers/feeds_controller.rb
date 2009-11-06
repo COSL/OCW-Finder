@@ -1,4 +1,4 @@
-class FeedsController < Muck::FeedsController
+class FeedsController < ApplicationController
   
   def index
     permanent_redirect("http://www.folksemantic.com")
