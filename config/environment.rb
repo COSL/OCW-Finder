@@ -16,6 +16,7 @@ Rails::Initializer.run do |config|
   config.gem 'babelphish'
   config.gem 'action_mailer_tls', :lib => 'smtp_tls'
   config.gem 'friendly_id'
+  config.gem "recaptcha", :lib => "recaptcha/rails"
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
   config.gem 'will_paginate'
   config.gem 'muck-engine', :lib => 'muck_engine'
