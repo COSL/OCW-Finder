@@ -1,0 +1,28 @@
+--- 
+iw: 
+  contact: 
+    contact_response_subject: "תודה על שאלתך מן {{application_name}}!"
+    contact_us: "צור קשר"
+    email: "הדוא&quot;ל שלך:"
+    email_help: "אנא ספק לנו את הדוא&quot;ל שלך כדי שנוכל ליצור איתך קשר במידת הצורך."
+    name: "השם שלך:"
+    name_help: "אנא ספק לנו את שמך."
+    phone: "מספר הטלפון שלך:"
+    phone_help: "מספר הטלפון שלך הוא אופציונלי, אך יסייע לנו ליצור איתך קשר במידת הצורך."
+    question: "הודעה / שאלה שלך:"
+    question_help: "נא לכלול הערות כלשהן אתה רוצה לשמוע אותנו."
+    subject: "נושא:"
+    subject_help: "משפט פשוט מצביע על אופי המשוב שלך."
+  folksemantic: 
+    credits: "פותח ע&quot;י <a href=\"http://www.tatemae.com\">Tatemae</a> עבור <a href=\"http://cosl.usu.edu\">מרכז הלמידה פתוח בר קיימא</a> במימון <a href=\"http://nsf.gov/\">קרן המדע הלאומית</a> ואת <a href=\"http://www.mellon.org/\">קרן אנדרו מלון W</a>"
+  general: 
+    delete_file: "מחיקת קובץ"
+    send: לשלוח
+    thank_you_contact: "תודה על ההודעה שלך. חבר בצוות שלנו יגיב בהקדם."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "עיון או קורסים לפי תגית"
+    explore: "חפש באינטרנט"
+    no_courses_found: "אין קורסים נמצאו <b>{{query}}.</b>"
+    show_tagged_resources: "הצג OERs"
+    use_tag_cloud: "עיון שימוש עננים תג"

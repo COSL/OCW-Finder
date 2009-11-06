@@ -1,0 +1,28 @@
+--- 
+fa: 
+  contact: 
+    contact_response_subject: "با تشکر برای درخواست شما را از {{application_name}}!"
+    contact_us: "تماس با ما"
+    email: "ایمیل شما :"
+    email_help: "لطفا با ما با ایمیل را فراهم کنید تا که ما می توانیم شما را در صورت لزوم تماس بگیرید."
+    name: "نام شما :"
+    name_help: "لطفا ما را با نام خود را ارائه می کنند."
+    phone: "شماره تلفن شما :"
+    phone_help: "شماره تلفن شما در حال اختیاری است ولی شما کمک خواهد کرد در صورت لزوم با ما تماس بگیرید."
+    question: "پیام / سئوال شما :"
+    question_help: "لطفا عبارتند از هر گونه نظرات شما ما را به شنیدن می خواهم."
+    subject: "موضوع :"
+    subject_help: "دستور ساده نشان می دهد طبیعت نظرات شما."
+  folksemantic: 
+    credits: "توسط <a href=\"http://www.tatemae.com\">Tatemae</a> برای <a href=\"http://cosl.usu.edu\">مرکز آموزش باز کردن و پایدار</a> با کمک مالی <a href=\"http://nsf.gov/\">بنیاد ملی علوم آمریکا</a> و <a href=\"http://www.mellon.org/\">بنیاد اندرو ملون عرض</a> و توسعه"
+  general: 
+    delete_file: "حذف فایل"
+    send: ارسال
+    thank_you_contact: "با تشکر از ارسال پیام شما. عضو تیم ما برای شما در مدت کوتاهی پاسخ دهند."
+  ocwfinder: 
+    browse_by_tags: "فهرست اسامی با برچسب ها"
+    browse_courses: "و یا فهرست اسامی دورهها توسط برچسب"
+    explore: "جستجو در وب"
+    no_courses_found: "دوره هایی برای هیچ <b>{{query}}یافت</b> نشد."
+    show_tagged_resources: "نمایش OERs"
+    use_tag_cloud: "فهرست اسامی ابرها با استفاده از برچسب"

@@ -1,0 +1,28 @@
+--- 
+cs: 
+  contact: 
+    contact_response_subject: "Díky za váš dotaz z {{application_name}}!"
+    contact_us: "Kontaktujte nás"
+    email: "Váš e-mail:"
+    email_help: "Sdělte nám prosím svůj e-mail, aby vás mohli kontaktovat v případě potřeby."
+    name: "Vaše jméno:"
+    name_help: "Pokud nám poskytnete své jméno."
+    phone: "Vaše telefonní číslo:"
+    phone_help: "Telefonního čísla je nepovinné, ale pomůže nám s vámi v případě potřeby."
+    question: "Váš vzkaz / dotaz:"
+    question_help: "Uveďte prosím jakékoliv připomínky, které byste rád, abychom slyšeli."
+    subject: "Předmět:"
+    subject_help: "Jednoduchý uvádějící povahu svůj názor."
+  folksemantic: 
+    credits: "Vyvinutý <a href=\"http://www.tatemae.com\">Tatemae</a> pro <a href=\"http://cosl.usu.edu\">Centrum pro otevřené a udržitelný rozvoj vzdělávání</a> s financováním z <a href=\"http://nsf.gov/\">National Science Foundation</a> a <a href=\"http://www.mellon.org/\">Andrew Mellon Foundation W</a>"
+  general: 
+    delete_file: "Smazat soubor"
+    send: Poslat
+    thank_you_contact: "Děkujeme Vám za Vaši zprávu. Člen našeho týmu bude reagovat na vás v nejbližší době."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Kurzy na Procházet podle tagů"
+    explore: "Hledat na webu"
+    no_courses_found: "Nebyly nalezeny žádné kurzy pro <b>{{query}}.</b>"
+    show_tagged_resources: "Zobrazit OERs"
+    use_tag_cloud: "Lidé Použití Tag Clouds"

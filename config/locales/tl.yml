@@ -1,0 +1,28 @@
+--- 
+tl: 
+  contact: 
+    contact_response_subject: "Salamat para sa iyong mga tanong mula sa {{application_name}}!"
+    contact_us: "Makipag-ugnay sa Amin"
+    email: "Ang iyong email:"
+    email_help: "Mangyari lamang na ibigay sa amin ang inyong email upang maaari ugnayan kami sa iyo kung kinakailangan."
+    name: "Ang iyong pangalan:"
+    name_help: "Mangyari lamang na magbigay sa amin ng iyong pangalan."
+    phone: "Ang iyong numero ng telepono:"
+    phone_help: "Ang iyong numero ng telepono ay opsyonal ngunit ito ay makakatulong sa amin na makipag-ugnayan sa iyo kung kinakailangan."
+    question: "Ang iyong mensahe / katanungan:"
+    question_help: "Mangyaring isama ang anumang mga puna na nais mong sa amin upang marinig."
+    subject: "Paksa:"
+    subject_help: "Ang isang simpleng pahayag na nagpapahiwatig na ang uri ng iyong puna."
+  folksemantic: 
+    credits: "Developed by <a href=\"http://www.tatemae.com\">Tatemae</a> para sa <a href=\"http://cosl.usu.edu\">Center para Buksan at Sustainable Pag-aaral</a> sa pagpopondo mula sa <a href=\"http://nsf.gov/\">National Science Foundation</a> at ang <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Tanggalin File"
+    send: Ipadala
+    thank_you_contact: "Salamat sa iyong mensahe. Ang isang miyembro ng aming pangkat ay tumugon sa iyo sa ilang sandali."
+  ocwfinder: 
+    browse_by_tags: "Browse By Tags"
+    browse_courses: "O Browse By sangay Tag"
+    explore: "Hanapin sa Web"
+    no_courses_found: "Walang mga kurso ay natagpuan para sa <b>{{query}}.</b>"
+    show_tagged_resources: "Ipakita ang mga OERs"
+    use_tag_cloud: "Browse Paggamit ng Tag Ulap"

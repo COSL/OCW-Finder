@@ -1,0 +1,28 @@
+--- 
+zh-TW: 
+  contact: 
+    contact_response_subject: "感謝您查詢的{{application_name}}!"
+    contact_us: 聯繫我們
+    email: 您的電子郵件：
+    email_help: 請向我們提供您的電子郵件，以便我們與您聯繫，如果必要的。
+    name: 您的姓名：
+    name_help: 請向我們提供您的姓名。
+    phone: 您的電話號碼：
+    phone_help: 您的電話號碼是可選的，但將幫助我們與您聯繫，如果必要的。
+    question: 您的留言/問題：
+    question_help: 請包含任何您希望我們聽到的。
+    subject: 主題：
+    subject_help: 一個簡單的聲明，說明您的反饋性質。
+  folksemantic: 
+    credits: "開發<a href=\"http://www.tatemae.com\">Tatemae</a>為<a href=\"http://cosl.usu.edu\">中心的開放和可持續學習</a>撥款的<a href=\"http://nsf.gov/\">國家科學基金會</a>和<a href=\"http://www.mellon.org/\">安德魯糯梅隆基金會</a>"
+  general: 
+    delete_file: 刪除文件
+    send: 發送
+    thank_you_contact: 感謝你的信息。一名成員，我們的團隊將在短期內回复您。
+  ocwfinder: 
+    browse_by_tags: 瀏覽標籤
+    browse_courses: 或瀏覽課程標籤
+    explore: 搜索Web
+    no_courses_found: "沒有課程找到<b>{{query}}。</b>"
+    show_tagged_resources: 顯示Oers繼續
+    use_tag_cloud: 瀏覽使用標籤雲

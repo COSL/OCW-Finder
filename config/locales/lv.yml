@@ -1,0 +1,28 @@
+--- 
+lv: 
+  contact: 
+    contact_response_subject: "Paldies par Jūsu izmeklēšanu no {{application_name}}!"
+    contact_us: "Contact Us"
+    email: "Jūsu e-pasts:"
+    email_help: "Lūdzu, sniedziet mums savu e-pastu, lai mēs varētu ar jums sazināties, ja nepieciešams."
+    name: "Jūsu vārds:"
+    name_help: "Lūdzu, sniedziet mums savu vārdu."
+    phone: "Jūsu tālruņa numurs:"
+    phone_help: "Jūsu telefona numurs ir obligāta, bet mums palīdzēs jums sazināties, ja nepieciešams."
+    question: "Jūsu ziņa / jautājums:"
+    question_help: "Lūdzu, ietver visus komentārus Jūs vēlētos mūs dzirdēt."
+    subject: "Tēma:"
+    subject_help: "Vienkāršu paziņojumu, norādot Jūsu atsauksmi."
+  folksemantic: 
+    credits: "Developed by <a href=\"http://www.tatemae.com\">Tatemae</a> attiecībā <a href=\"http://cosl.usu.edu\">uz atvērta un ilgtspējīga Learning</a> ar finansējumu no <a href=\"http://nsf.gov/\">National Science Foundation</a> un <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a> <a href=\"http://cosl.usu.edu\">Center</a>"
+  general: 
+    delete_file: "Izdzēst failu"
+    send: Sūtīt
+    thank_you_contact: "Paldies par jūsu ziņojumu. Mūsu komandas loceklis atbildēs Jums tuvākajā laikā."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Or Browse Courses by tag"
+    explore: "Search Web"
+    no_courses_found: "Nē kursi tika atrasti <b>{{query}}.</b>"
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "Browse Izmantojot Tagu Mākoņi"

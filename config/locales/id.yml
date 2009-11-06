@@ -1,0 +1,28 @@
+--- 
+id: 
+  contact: 
+    contact_response_subject: "Terima kasih atas pertanyaan dari {{application_name}}!"
+    contact_us: Kontak
+    email: "Email:"
+    email_help: "Harap menyediakan kami dengan email Anda agar kami dapat menghubungi Anda jika perlu."
+    name: "Nama Anda:"
+    name_help: "Harap menyediakan kami dengan nama Anda."
+    phone: "Nomor telepon Anda:"
+    phone_help: "Nomor telepon Anda adalah opsional, namun akan membantu kami menghubungi Anda jika perlu."
+    question: "Pesan Anda / Pertanyaan:"
+    question_help: "Harap sertakan komentar Anda ingin kami dengar."
+    subject: "Perihal:"
+    subject_help: "Sebuah pernyataan sederhana yang menunjukkan sifat umpan balik Anda."
+  folksemantic: 
+    credits: "Dikembangkan oleh <a href=\"http://www.tatemae.com\">Tatemae</a> untuk <a href=\"http://cosl.usu.edu\">Pusat Belajar Terbuka dan berkelanjutan</a> dengan dana dari <a href=\"http://nsf.gov/\">National Science Foundation</a> dan <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Hapus File"
+    send: Mengirim
+    thank_you_contact: "Terima kasih untuk pesan Anda. Seorang anggota tim kami akan merespon anda segera."
+  ocwfinder: 
+    browse_by_tags: "Browse By Tags"
+    browse_courses: "Atau Browse Courses Oleh Tag"
+    explore: "Cari Web"
+    no_courses_found: "Tidak ada kursus yang ditemukan untuk <b>{{query}}.</b>"
+    show_tagged_resources: "Tampilkan OERs"
+    use_tag_cloud: "People Menggunakan Tag Clouds"

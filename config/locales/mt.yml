@@ -1,0 +1,28 @@
+--- 
+mt: 
+  contact: 
+    contact_response_subject: "Grazzi għall-inkjesta tiegħek minn {{application_name}}!"
+    contact_us: "Contact Us"
+    email: "Your email:"
+    email_help: "Jekk jogħġbok tagħtina email tiegħek biex inkunu nistgħu kuntatt jekk ikun meħtieġ."
+    name: "Your name:"
+    name_help: "Jekk jogħġbok tagħtina l-isem tiegħek."
+    phone: "Numru tat-telefon tiegħek:"
+    phone_help: "Numru tat-telefon tiegħek mhijiex obbligatorja iżda se tgħinna kuntatt jekk ikun meħtieġ."
+    question: "Il-messaġġ tiegħek / mistoqsija:"
+    question_help: "Jekk jogħġbok jinkludu kwalunkwe kummenti li inti tixtieq magħna biex tisma."
+    subject: "Suġġett:"
+    subject_help: "A sempliċi dikjarazzjoni li tindika n-natura ta &#39;l-feedback tiegħek."
+  folksemantic: 
+    credits: "Żviluppat mill <a href=\"http://www.tatemae.com\">Tatemae</a> <a href=\"http://cosl.usu.edu\">għall-Ċentru għar-Open u Sostenibbli Tagħlim</a> bil-finanzjament <a href=\"http://nsf.gov/\">mill-Fondazzjoni tax-Xjenza Nazzjonali</a> u <a href=\"http://www.mellon.org/\">l-Fondazzjoni Andrew W Mellon</a>"
+  general: 
+    delete_file: "Ħassar File"
+    send: Ibgħat
+    thank_you_contact: "Grazzi għall-messaġġ tiegħek. A membru tat-tim tagħna se tirrispondi lilek dalwaqt."
+  ocwfinder: 
+    browse_by_tags: "Browse By Tags"
+    browse_courses: "Jew Browse Korsijiet Permezz Tag"
+    explore: "Search the Web"
+    no_courses_found: "Nru korsijiet kienu misjuba għal <b>{{query}}.</b>"
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "Browse użu sħab Tag"

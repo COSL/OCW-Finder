@@ -1,0 +1,28 @@
+--- 
+th: 
+  contact: 
+    contact_response_subject: "ขอขอบคุณสำหรับคำถามของคุณจาก {{application_name}}!"
+    contact_us: ติดต่อเรา
+    email: "อีเมล์ของคุณ:"
+    email_help: กรุณาระบุอีเมล์ของคุณเพื่อให้เราสามารถติดต่อคุณถ้าจำเป็น.
+    name: ชื่อของคุณ
+    name_help: โปรดระบุชื่อของคุณ.
+    phone: "หมายเลขโทรศัพท์ของคุณ:"
+    phone_help: หมายเลขโทรศัพท์ของคุณมีตัวเลือกแต่จะช่วยให้เราติดต่อคุณถ้าจำเป็น.
+    question: "ข้อความ / คำถามของคุณ:"
+    question_help: กรุณาใส่ความคิดเห็นที่คุณต้องการให้เราได้ยิน.
+    subject: "Subject:"
+    subject_help: คำง่ายๆที่ระบุลักษณะการตอบรับของคุณ.
+  folksemantic: 
+    credits: "พัฒนาโดย <a href=\"http://www.tatemae.com\">Tatemae</a> สำหรับ <a href=\"http://cosl.usu.edu\">ศูนย์เปิดและการเรียนรู้อย่างยั่งยืน</a> กับเงินจาก <a href=\"http://nsf.gov/\">National Science Foundation</a> และ <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: ไฟล์ลบ
+    send: ส่ง
+    thank_you_contact: "ขอขอบคุณสำหรับข้อความของคุณ. สมาชิกของทีมงานเราจะตอบกับคุณในไม่ช้า."
+  ocwfinder: 
+    browse_by_tags: เบราส์ด้วยแท็ก
+    browse_courses: หรือรายวิชาจากแท็ก
+    explore: ค้นหาเว็บ
+    no_courses_found: "หลักสูตรไม่พบ <b>{{query}}.</b>"
+    show_tagged_resources: "OERs แสดง"
+    use_tag_cloud: ดูเมฆใช้แท็ก

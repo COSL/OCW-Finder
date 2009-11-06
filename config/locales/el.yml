@@ -1,0 +1,28 @@
+--- 
+el: 
+  contact: 
+    contact_response_subject: "Ευχαριστώ για την έρευνα σας από {{application_name}}!"
+    contact_us: Επικοινωνία
+    email: "Το email σας:"
+    email_help: "Παρακαλούμε δώστε μας το email σας για να μπορέσουμε να επικοινωνήσουμε μαζί σας εάν είναι απαραίτητο."
+    name: "Το όνομά σας:"
+    name_help: "Παρακαλείσθε να μας δώσετε το όνομά σας."
+    phone: "Αριθμό τηλεφώνου σας:"
+    phone_help: "Αριθμό του τηλεφώνου σας είναι προαιρετική, αλλά θα μας βοηθήσει να επικοινωνήσουμε μαζί σας εάν είναι απαραίτητο."
+    question: "Το μήνυμά σας / ερώτηση:"
+    question_help: "Παρακαλείσθε να συμπεριλάβετε οποιαδήποτε σχόλια θα θέλατε να ακούσετε."
+    subject: "Θέμα:"
+    subject_help: "Μια απλή δήλωση στην οποία αναφέρεται η φύση της τα σχόλιά σας."
+  folksemantic: 
+    credits: "Αναπτύχθηκε από <a href=\"http://www.tatemae.com\">Tatemae</a> για το <a href=\"http://cosl.usu.edu\">Κέντρο για την Ανοικτή και βιώσιμη Μάθηση</a> με χρηματοδότηση από το <a href=\"http://nsf.gov/\">Εθνικό Ίδρυμα Επιστημών</a> και το <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: Διαγραφήαρχείου
+    send: Αποστέλω
+    thank_you_contact: "Σας ευχαριστούμε για το μήνυμά σας. Ένα μέλος της ομάδας μας θα σας απαντήσουμε πολύ σύντομα."
+  ocwfinder: 
+    browse_by_tags: "Αναζήτηση με Tags"
+    browse_courses: "Ή Πλοήγηση στα μαθήματα By Tag"
+    explore: "Αναζήτηση στο Web"
+    no_courses_found: "Δεν βρέθηκαν μαθήματα για <b>{{query}}.</b>"
+    show_tagged_resources: "Δείτε OERs"
+    use_tag_cloud: "Browse Χρησιμοποιώντας Clouds Tag"

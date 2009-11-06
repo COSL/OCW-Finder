@@ -1,0 +1,28 @@
+--- 
+nl: 
+  contact: 
+    contact_response_subject: "Bedankt voor uw vraag uit {{application_name}}!"
+    contact_us: "Contact Us"
+    email: "Uw e-mail:"
+    email_help: "Geef ons uw e-mail zodat wij u kunnen contacteren indien nodig."
+    name: "Uw naam:"
+    name_help: "Geef ons uw naam."
+    phone: "Uw telefoonnummer:"
+    phone_help: "Uw telefoonnummer is optioneel, maar zal ons helpen om contact met u opnemen indien nodig."
+    question: "Uw bericht / vraag:"
+    question_help: "Vermeld eventuele opmerkingen die u wilt dat wij horen."
+    subject: "Onderwerp:"
+    subject_help: "Een eenvoudige verklaring waaruit de aard van uw feedback."
+  folksemantic: 
+    credits: "Ontwikkeld door <a href=\"http://www.tatemae.com\">Tatemae</a> voor het <a href=\"http://cosl.usu.edu\">Center for Open and Sustainable Learning</a> met financiering van de <a href=\"http://nsf.gov/\">National Science Foundation</a> en de <a href=\"http://www.mellon.org/\">W Andrew Mellon Foundation</a>"
+  general: 
+    delete_file: "Bestand verwijderen"
+    send: Sturen
+    thank_you_contact: "Dank u voor uw bericht. Een lid van ons team zal reageren binnenkort aan jou."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Of Bekijk cursussen By Tag"
+    explore: "Zoeken op het web"
+    no_courses_found: "Geen cursussen gevonden voor <b>{{query}}.</b>"
+    show_tagged_resources: "Toon Oers"
+    use_tag_cloud: "Browse gebruiken Tag Clouds"

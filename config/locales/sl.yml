@@ -1,0 +1,28 @@
+--- 
+sl: 
+  contact: 
+    contact_response_subject: "Hvala za vaše povpraševanje iz {{application_name}}!"
+    contact_us: Kontakt
+    email: "Vaš e-mail:"
+    email_help: "Prosimo, da nam pošljete vaš email, tako da bomo lahko v stik z vami, če je potrebno."
+    name: "Vaše ime:"
+    name_help: "Prosimo, da nam s svojim imenom."
+    phone: "Vaš telefon:"
+    phone_help: "Vaša telefonska številka ni obvezna, vendar nam bo pomagalo stik z vami, če je to potrebno."
+    question: "Vaše sporočilo / vprašanje:"
+    question_help: "Prosimo, vključite vse pripombe, ki jih želite nas slišati."
+    subject: "Zadeva:"
+    subject_help: "Preprosto izjavo o naravi vaše povratne informacije."
+  folksemantic: 
+    credits: "Developed by <a href=\"http://www.tatemae.com\">Tatemae</a> za <a href=\"http://cosl.usu.edu\">Center za odprto učenje in trajnostni</a> s financiranjem iz <a href=\"http://nsf.gov/\">National Science Foundation</a> in <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Brisanje datotek"
+    send: Poslati
+    thank_you_contact: "Hvala za vaše sporočilo. Član naše ekipe se bodo odzvali na vas v kratkem."
+  ocwfinder: 
+    browse_by_tags: "Browse By Tags"
+    browse_courses: "Ali Brskaj Tečaji By Tag"
+    explore: "Search Web"
+    no_courses_found: "Št tečaji so bile ugotovljene za <b>{{query}}.</b>"
+    show_tagged_resources: "Prikaži OERs"
+    use_tag_cloud: "Brskanje Uporaba Tag Clouds"

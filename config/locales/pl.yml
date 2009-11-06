@@ -1,0 +1,28 @@
+--- 
+pl: 
+  contact: 
+    contact_response_subject: "Dziękujemy za pytanie z {{application_name}}!"
+    contact_us: Kontakt
+    email: "Twój e-mail:"
+    email_help: "Podaj nam swój e-mail, abyśmy mogli skontaktować się w razie potrzeby."
+    name: "Twoje imię:"
+    name_help: "Proszę podać nam swoje nazwisko."
+    phone: "Twój numer telefonu:"
+    phone_help: "Twój numer telefonu nie jest obowiązkowe, ale pomogą nam skontaktować się w razie potrzeby."
+    question: "Twoje pytanie / wiadomość:"
+    question_help: "Prosimy o wszelkie uwagi chcieliby nas usłyszeć."
+    subject: "Temat:"
+    subject_help: "Proste oświadczenie stwierdzające charakter Twojej opinii."
+  folksemantic: 
+    credits: "Opracowane przez <a href=\"http://www.tatemae.com\">Tatemae</a> do <a href=\"http://cosl.usu.edu\">Centrum Otwartej i trwałego uczenia się</a> dzięki funduszom <a href=\"http://nsf.gov/\">National Science Foundation</a> i <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Usuwanie pliku"
+    send: Wysłać
+    thank_you_contact: "Dziękuję za wiadomość. Członkiem naszego zespołu będzie odpowiadał na Tobą."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Lub Przeglądaj Kursy według tagów"
+    explore: "Szukaj w Internecie"
+    no_courses_found: "Brak kursów uznano za <b>{{query}}.</b>"
+    show_tagged_resources: "Pokaż Oers"
+    use_tag_cloud: "Ludzie Korzystanie Tag Clouds"

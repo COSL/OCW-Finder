@@ -1,0 +1,29 @@
+--- 
+? "no"
+: 
+  contact: 
+    contact_response_subject: "Takk for forespørselen fra {{application_name}}!"
+    contact_us: "Kontakt oss"
+    email: "Din e-post:"
+    email_help: "Vennligst oppgi din e-post slik at vi kan kontakte deg om nødvendig."
+    name: "Ditt navn:"
+    name_help: "Vennligst oppgi ditt navn."
+    phone: "Ditt telefonnummer:"
+    phone_help: "Ditt telefonnummer er valgfritt, men vil hjelpe oss kontakte deg om nødvendig."
+    question: "Din melding / spørsmål:"
+    question_help: "Ta med eventuelle kommentarer du ønsker å høre."
+    subject: "Emne:"
+    subject_help: "En enkel setning som indikerer hva slags tilbakemelding."
+  folksemantic: 
+    credits: "Utviklet av <a href=\"http://www.tatemae.com\">Tatemae</a> for <a href=\"http://cosl.usu.edu\">Center for Open og bærekraftig læring</a> med støtte fra <a href=\"http://nsf.gov/\">National Science Foundation</a> og <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Slett fil"
+    send: Sende
+    thank_you_contact: "Takk for meldingen. Et medlem av vårt team vil svare deg innen kort tid."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Eller gjennom kurs by Tag"
+    explore: "Søk på nettet"
+    no_courses_found: "Ingen emner ble funnet for <b>{{query}}.</b>"
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "Bla Bruke Tag Clouds"

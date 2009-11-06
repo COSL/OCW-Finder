@@ -1,0 +1,28 @@
+--- 
+tr: 
+  contact: 
+    contact_response_subject: "{{application_name}}! Den soruşturma için teşekkürler"
+    contact_us: İletişim
+    email: "E-posta:"
+    email_help: "Lütfen e-posta böylece gerekirse sizinle iletişim bize sağlar."
+    name: "Ad Soyad:"
+    name_help: "Lütfen adınızı bize."
+    phone: "Telefon numaranız:"
+    phone_help: "Telefon numaranızı isteğe bağlıdır ancak gerektiğinde bize ulaşın yardımcı olacaktır."
+    question: "Mesajın / soru:"
+    question_help: "Lütfen duymak bizim gibi herhangi bir yorum yer alıyor."
+    subject: "Konu:"
+    subject_help: "Basit bir beyanı geribildirim niteliği gösterir."
+  folksemantic: 
+    credits: "<a href=\"http://www.tatemae.com\">Tatemae</a> tarafından <a href=\"http://cosl.usu.edu\">Merkezi Açık ve Sürdürülebilir Öğrenim için</a> <a href=\"http://nsf.gov/\">Ulusal Bilim Vakfı</a> ve <a href=\"http://www.mellon.org/\">W, Andrew Mellon Vakfı</a> den fonlarıyla için geliştirildi"
+  general: 
+    delete_file: "Dosya silmek"
+    send: Göndermek
+    thank_you_contact: "İletiniz için teşekkür ederiz. Ekibimizin bir üyesi sizi kısa sürede yanıt vereceğiz."
+  ocwfinder: 
+    browse_by_tags: "İnsanlar Tags"
+    browse_courses: "Veya Derslere gözat Tag"
+    explore: "Arama Web"
+    no_courses_found: "No kursları <b>{{query}}</b> bulunamadı."
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "İnsanlar kullanma Tag Clouds"

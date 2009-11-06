@@ -1,0 +1,28 @@
+--- 
+vi: 
+  contact: 
+    contact_response_subject: "Cảm ơn bạn đã yêu cầu thông tin của bạn từ {{application_name}}!"
+    contact_us: "Liên hệ"
+    email: "Email của bạn:"
+    email_help: "Xin vui lòng cho chúng tôi email của bạn để chúng tôi có thể liên lạc với bạn nếu cần thiết."
+    name: "Tên của bạn:"
+    name_help: "Xin vui lòng cung cấp cho chúng tôi với tên của bạn."
+    phone: "Số điện thoại của bạn:"
+    phone_help: "Số điện thoại của bạn là tùy chọn, nhưng sẽ giúp chúng tôi liên lạc với bạn nếu cần thiết."
+    question: "Câu hỏi của bạn tin nhắn /:"
+    question_help: "Xin vui lòng bao gồm bất kỳ ý kiến bạn muốn chúng tôi nghe."
+    subject: "Tiêu đề:"
+    subject_help: "Một câu đơn giản chỉ ra bản chất của các phản hồi của bạn."
+  folksemantic: 
+    credits: "Phát triển bởi <a href=\"http://www.tatemae.com\">Tatemae</a> cho các <a href=\"http://cosl.usu.edu\">Trung tâm học tập mở và bền vững</a> với sự tài trợ từ <a href=\"http://nsf.gov/\">Quỹ khoa học quốc gia</a> và <a href=\"http://www.mellon.org/\">Quỹ Andrew W Mellon</a>"
+  general: 
+    delete_file: "Xoá tệp"
+    send: Gửi
+    thank_you_contact: "Cám ơn các tin nhắn của bạn. Một thành viên của nhóm chúng tôi sẽ trả lời bạn ngay."
+  ocwfinder: 
+    browse_by_tags: "Duyệt theo Tags"
+    browse_courses: "Hoặc Duyệt Các khóa học theo Tag"
+    explore: "Tìm kiếm trên Web"
+    no_courses_found: "Không có các khóa học đã được tìm thấy cho <b>{{query}}.</b>"
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "Duyệt Sử dụng Từ liên quan"

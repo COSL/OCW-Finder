@@ -1,0 +1,28 @@
+--- 
+hu: 
+  contact: 
+    contact_response_subject: "Köszönjük, hogy a vizsgálat a {{application_name}}!"
+    contact_us: Érdeklődjön
+    email: "Ön e-mail:"
+    email_help: "Kérjük, adja meg e-mail, hogy felvehessük Önnel a kapcsolatot, ha szükséges."
+    name: "Az Ön neve:"
+    name_help: "Kérjük, adja meg a nevét."
+    phone: "Az Ön telefonszáma:"
+    phone_help: "Ön telefonszáma nem kötelező, de segít nekünk Önnel a kapcsolatot, ha szükséges."
+    question: "Üzenete / kérdése:"
+    question_help: "Kérjük, észrevételeiket szeretne minket hallani."
+    subject: "Tárgy: Az"
+    subject_help: "Egy egyszerű kijelentés jellege visszajelzését."
+  folksemantic: 
+    credits: "Által kifejlesztett <a href=\"http://www.tatemae.com\">Tatemae</a> a <a href=\"http://cosl.usu.edu\">Center for Learning nyitott és fenntartható</a> finanszírozása mellett a <a href=\"http://nsf.gov/\">National Science Foundation</a> és a <a href=\"http://www.mellon.org/\">W Andrew Mellon Alapítvány</a>"
+  general: 
+    delete_file: "Fájl törlése"
+    send: Elküld
+    thank_you_contact: "Köszönjük az üzenetet. A csapatunk tagja lesz hamarosan válaszolunk Önnek."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Vagy a Tallózás tanfolyamok Tag"
+    explore: "Keresés a weben"
+    no_courses_found: "Nincs tanfolyamokat talált <b>{{query}}.</b>"
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "Tallózás használata Tag Clouds"

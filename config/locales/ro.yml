@@ -1,0 +1,28 @@
+--- 
+ro: 
+  contact: 
+    contact_response_subject: "Vă mulţumim pentru solicitarea de informatii de la {{application_name}}!"
+    contact_us: Contactati-ne
+    email: "Adresa ta de email:"
+    email_help: "Vă rugăm să ne oferiţi un e-mail, astfel încât să vă putem contacta dacă este necesar."
+    name: "Numele tau:"
+    name_help: "Vă rugăm să ne furnizaţi numele dumneavoastră."
+    phone: "Numărul dvs. de telefon:"
+    phone_help: "Numărul dvs. de telefon este facultativă, dar ne va ajuta să vă contactăm dacă este necesar."
+    question: "Mesajul dvs. / întrebare:"
+    question_help: "Vă rugăm să includă orice observaţii pe care doriţi ca noi să aud."
+    subject: "Subiect:"
+    subject_help: "O simplă declaraţie care indică natura feedback-ul dumneavoastră."
+  folksemantic: 
+    credits: "Dezvoltat de <a href=\"http://www.tatemae.com\">Tatemae</a> pentru <a href=\"http://cosl.usu.edu\">Centrul de Deschidere şi de studiu durabile,</a> cu finanţare de la <a href=\"http://nsf.gov/\">National Science Foundation</a> si <a href=\"http://www.mellon.org/\">Fundatia Andrew W Mellon,</a>"
+  general: 
+    delete_file: "Şterge fişier"
+    send: Trimite
+    thank_you_contact: "Vă mulţumim pentru mesaj. Un membru al echipei noastre va va raspunde in scurt timp."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Sau Vezi Cursuri dupa tag-uri"
+    explore: "Căutaţi pe Web"
+    no_courses_found: "Nu au fost gasite cursuri pentru <b>{{query}}.</b>"
+    show_tagged_resources: "Show OERs"
+    use_tag_cloud: "Vezi Utilizarea Tag Clouds"

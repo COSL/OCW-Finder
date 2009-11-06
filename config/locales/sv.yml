@@ -1,0 +1,28 @@
+--- 
+sv: 
+  contact: 
+    contact_response_subject: "Tack för din förfrågan från {{application_name}}!"
+    contact_us: Kontakt
+    email: "Din e-post:"
+    email_help: "Vänligen förse oss med din e-postadress så att vi kan kontakta dig vid behov."
+    name: "Ditt namn:"
+    name_help: "Uppge ditt namn."
+    phone: "Ditt telefonnummer:"
+    phone_help: "Ditt telefonnummer är frivilligt, men kommer att hjälpa oss att kontakta dig vid behov."
+    question: "Ditt meddelande / fråga:"
+    question_help: "Ta gärna med kommentarer du vill att vi ska höra."
+    subject: "Ämne:"
+    subject_help: "En enkel uppgift som anger vilken typ av feedback."
+  folksemantic: 
+    credits: "Utvecklad av <a href=\"http://www.tatemae.com\">Tatemae</a> för <a href=\"http://cosl.usu.edu\">Center for Open and Sustainable Learning</a> med finansiering från <a href=\"http://nsf.gov/\">National Science Foundation</a> och <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Ta bort fil"
+    send: Skicka
+    thank_you_contact: "Tack för ditt meddelande. En medlem i vårt team kommer att svara dig inom kort."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Eller Bläddra kurser efter tagg"
+    explore: "Sök på webben"
+    no_courses_found: "Inga kurser hittades för <b>{{query}}.</b>"
+    show_tagged_resources: "Visa Oers"
+    use_tag_cloud: "Bläddra Använda Tag Clouds"

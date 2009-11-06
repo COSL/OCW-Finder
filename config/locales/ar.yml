@@ -1,0 +1,28 @@
+--- 
+ar: 
+  contact: 
+    contact_response_subject: "شكرا لاستفسارك من {{application_name}}!"
+    contact_us: "اتصل بنا"
+    email: "البريد الإلكتروني الخاص بك :"
+    email_help: "يرجى تزويدنا البريد الإلكتروني الخاص بك لكي نتمكن من الاتصال بكم إذا لزم الأمر."
+    name: "اسمك :"
+    name_help: "يرجى تزويدنا باسمك."
+    phone: "رقم الهاتف :"
+    phone_help: "رقم الهاتف الخاص بك هو اختياري ولكن سيساعدنا على الاتصال بكم إذا لزم الأمر."
+    question: "رسالتك / السؤال :"
+    question_help: "يرجى إدراج أي تعليقات تودون منا أن يسمع."
+    subject: "الموضوع :"
+    subject_help: "وجاء في بيان بسيط يبين طبيعة مشاركتك."
+  folksemantic: 
+    credits: "التي وضعتها <a href=\"http://www.tatemae.com\">تاتيماي</a> <a href=\"http://cosl.usu.edu\">لمركز التعلم المفتوح والتنمية المستدامة</a> وذلك بتمويل من <a href=\"http://nsf.gov/\">مؤسسة العلوم الوطنية</a> <a href=\"http://www.mellon.org/\">ومؤسسة أندرو دبليو ميلون</a>"
+  general: 
+    delete_file: "حذف ملف"
+    send: يرسل
+    thank_you_contact: "شكرا على رسالتك. وقال عضو في فريق عملنا سوف نرد عليك قريبا."
+  ocwfinder: 
+    browse_by_tags: "استعرض بالسمات"
+    browse_courses: "أو استعراض المواد بواسطة الوسم"
+    explore: "البحث في الويب"
+    no_courses_found: "تم العثور على أي دورات <b>ل{{query}}.</b>"
+    show_tagged_resources: "وتظهر OERs"
+    use_tag_cloud: "تصفح باستخدام بطاقة السحب"

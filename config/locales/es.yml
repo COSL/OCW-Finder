@@ -1,0 +1,28 @@
+--- 
+es: 
+  contact: 
+    contact_response_subject: "Gracias por su consulta de {{application_name}}!"
+    contact_us: Contáctenos
+    email: "Su correo electrónico:"
+    email_help: "Por favor nos proporcione su correo electrónico para que podamos contactar con usted si es necesario."
+    name: "Su nombre:"
+    name_help: "Por favor nos proporcione su nombre."
+    phone: "Su número de teléfono:"
+    phone_help: "Su número de teléfono es opcional, pero nos ayudará en contacto con usted si es necesario."
+    question: "Tu mensaje / pregunta:"
+    question_help: "Por favor, incluya cualquier comentario que nos gustaría escuchar."
+    subject: "Asunto:"
+    subject_help: "Una simple declaración indicando la naturaleza de sus comentarios."
+  folksemantic: 
+    credits: "Desarrollado por <a href=\"http://www.tatemae.com\">tatemae</a> para el <a href=\"http://cosl.usu.edu\">Center for Open and Sustainable Learning</a> con fondos de la <a href=\"http://nsf.gov/\">National Science Foundation</a> y la <a href=\"http://www.mellon.org/\">Fundación Andrew W Mellon</a>"
+  general: 
+    delete_file: "Borrar archivo"
+    send: Enviar
+    thank_you_contact: "Gracias por su mensaje. Un miembro de nuestro equipo responderá a la brevedad."
+  ocwfinder: 
+    browse_by_tags: "Búsqueda por etiquetas"
+    browse_courses: "O navegar por cursos Tag"
+    explore: "Buscar en la Web"
+    no_courses_found: "No hay cursos se han encontrado <b>{{query}}.</b>"
+    show_tagged_resources: "Mostrar OER"
+    use_tag_cloud: "Navegar usando Nubes de etiquetas"

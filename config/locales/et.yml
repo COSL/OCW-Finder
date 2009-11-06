@@ -1,0 +1,28 @@
+--- 
+et: 
+  contact: 
+    contact_response_subject: "Täname alates {{application_name}}!"
+    contact_us: Kontakt
+    email: "Teie e-post:"
+    email_help: "Palun anna meile oma e-maili, et saaksime teiega vajadusel."
+    name: "Teie nimi:"
+    name_help: "Palun anna meile oma nimi."
+    phone: "Telefoni number:"
+    phone_help: "Teie telefoninumber on vabatahtlik, kuid aitab meil teiega ühendust, kui vaja."
+    question: "Sõnum / küsimus:"
+    question_help: "Palun lisada märkusi soovid meie kuulata."
+    subject: "Teema:"
+    subject_help: "Lihtne kinnitus selle kohta, iseloom tagasisidet."
+  folksemantic: 
+    credits: "Developed by <a href=\"http://www.tatemae.com\">Tatemae</a> jaoks <a href=\"http://cosl.usu.edu\">Keskus avatud ning jätkusuutliku õppe</a> rahastatud <a href=\"http://nsf.gov/\">National Science Foundation</a> ja <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+  general: 
+    delete_file: "Kustuta fail"
+    send: Saatma
+    thank_you_contact: "Tänan Teid kirja eest. Liige meeskond vastab teile peagi."
+  ocwfinder: 
+    browse_by_tags: "Browse by Tags"
+    browse_courses: "Või Kursuste sirvimine by Tag"
+    explore: "Search the Web"
+    no_courses_found: "Nr kursuseid ei leitud <b>{{query}}.</b>"
+    show_tagged_resources: "Näita OERs"
+    use_tag_cloud: "Lehitse kasutamine Tag Clouds"

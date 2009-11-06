@@ -1,0 +1,28 @@
+--- 
+ja: 
+  contact: 
+    contact_response_subject: "{{application_name}}!からお問い合わせいただきありがとうございます"
+    contact_us: お問い合わせ
+    email: あなたのメールアドレス：
+    email_help: あなたのEメールのように必要に応じてお客様に連絡することができます私たちを提供します。
+    name: あなたのお名前：
+    name_help: あなたのお名前をご提供します。
+    phone: あなたの電話番号：
+    phone_help: あなたの電話番号はオプションですが必要な場合へのご連絡に役立ちます。
+    question: あなたのメッセージ/質問：
+    question_help: してくださいあなたを聞いてご希望の方はコメントしています。
+    subject: 題目：
+    subject_help: 単純なステートメントをあなたのフィードバックの性質を示す。
+  folksemantic: 
+    credits: "<a href=\"http://www.tatemae.com\">建前</a>で<a href=\"http://cosl.usu.edu\">センターを開き</a> 、 <a href=\"http://cosl.usu.edu\">持続可能な学習のための</a> <a href=\"http://nsf.gov/\">国立科学財団</a>と<a href=\"http://www.mellon.org/\">アンドリュー幅Mellon財団</a>からの資金のための開発"
+  general: 
+    delete_file: ファイルの削除
+    send: 送る
+    thank_you_contact: あなたのメッセージをいただきありがとうございます。我々のチームのメンバーがすぐに対応いたします。
+  ocwfinder: 
+    browse_by_tags: タグによる閲覧
+    browse_courses: またはBrowseコースタグで
+    explore: ウェブを検索
+    no_courses_found: "コースはありません<b>。{{query}}</b>は見つかりませんでした。"
+    show_tagged_resources: 地図を表示OERs
+    use_tag_cloud: ブラウズを使用してタグ雲
