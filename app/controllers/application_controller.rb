@@ -22,4 +22,8 @@ class ApplicationController < ActionController::Base
     @per_page = (params[:per_page] || (Rails.env=='test' ? 1 : 40)).to_i
   end
   
+  def ssl_required?
+    false
+  end
+  
 end
