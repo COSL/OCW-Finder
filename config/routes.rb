@@ -10,7 +10,9 @@ ActionController::Routing::Routes.draw do |map|
   
   map.resources :entries
   map.resources :comments
-
+  map.resources :user_sessions
+  map.resources :feeds
+  
   # top level pages
   map.contact '/contact', :controller => 'default', :action => 'contact'
   map.sitemap '/about', :controller => 'default', :action => 'about'
