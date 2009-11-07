@@ -9,7 +9,7 @@ require 'fileutils'
 namespace :muck do
   
   def muck_gems
-    ["babelphish","muck-solr","muck-raker","muck-services","muck-shares","muck-profiles","muck-comments"]
+    ["river", "babelphish", "muck-engine", "muck-solr", "muck-raker", "muck-services"]
   end
   
   desc 'Translate app'
