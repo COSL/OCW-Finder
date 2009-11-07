@@ -9,7 +9,7 @@
       &nbsp;&nbsp;
       <%= link_to('[' + t('ocwfinder.show_tagged_resources') + ']', @main_domain + '/resources/search?q=' + URI.escape(@search)) %>
       &nbsp;&nbsp;
-      <%= link_to('[' + t('ocwfinder.explore', :topic => @search.titleize) + ']', @main_domain + topic_path(URI.escape(@search))) %>
+      <%= link_to('[' + t('ocwfinder.explore', :topic => @search.titleize) + ']', @main_domain + topic_path(URI.escape(@search))) rescue '' -%>
       <% if @search_type == 'search' %>
       &nbsp;&nbsp;
       <%= link_to('[' + t('ocwfinder.browse_by_tags') + ']', '/') %>
