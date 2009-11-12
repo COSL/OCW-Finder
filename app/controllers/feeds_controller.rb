@@ -12,4 +12,8 @@ class FeedsController < ApplicationController
     permanent_redirect("http://www.folksemantic.com/feeds/new")
   end
 
+  def edit
+    permanent_redirect("http://www.folksemantic.com/feeds/new")
+  end
+  
 end
