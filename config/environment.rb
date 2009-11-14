@@ -20,8 +20,8 @@ Rails::Initializer.run do |config|
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
   config.gem 'will_paginate'
   config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.15'
-  config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.11'
-  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.4'
+  config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.12'
+  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.5'
   config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.6'
 
   # Settings in config/environments/* take precedence over those specified here.
