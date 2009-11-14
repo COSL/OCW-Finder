@@ -6,6 +6,13 @@ class EntriesController < Muck::EntriesController
     @main_domain = 'http://www.folksemantic.com'
   end
 
+  def index
+    @tag_cloud = TagCloud.language_tags(Language.locale_id, @grain_size) unless fragment_exist?({:controller => 'entries', :action => 'index', :language => Language.locale_id})
+    respond_to do |format|
+      format.html { render :template => 'entries/index' }
+    end
+  end
+
   def list_tags
     @tag_filter = params[:tags]
     @level = params[:level]
@@ -19,7 +26,7 @@ class EntriesController < Muck::EntriesController
 
   def browse_courses
     @tag_filter = params[:tags]
-    @search = @tag_filter.join(' ')
+    @search = 'tags:"' + @tag_filter.join('" tags:"') + '"'
     @search_type = 'browse'
     _search(:and)
     respond_to do |format|
