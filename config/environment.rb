@@ -19,10 +19,10 @@ Rails::Initializer.run do |config|
   config.gem "recaptcha", :lib => "recaptcha/rails"
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
   config.gem 'will_paginate'
-  config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.15'
-  config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.12'
-  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.5'
-  config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.6'
+  config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.19'
+  config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.16'
+  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.6'
+  config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.5'
 
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers
