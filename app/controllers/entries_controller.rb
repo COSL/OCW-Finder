@@ -55,10 +55,10 @@ class EntriesController < Muck::EntriesController
       @paginated_results = @results.paginate(:page => @page, :per_page => @per_page, :total_entries => @hit_count)
       log_query(current_user.nil? ? request.remote_addr : current_user.id, Language.locale_id, @tag_filter.nil? ? 'search' : 'browse', @search, @grain_size, @hit_count)
     end
-  rescue MuckServices::Exceptions::LanguageNotSupported => ex
+  rescue RuntimeError, MuckServices::Exceptions::LanguageNotSupported => ex
     @hit_count = 0
     @results = []
-    flash[:error] = ex.to_s
+    flash[:error] = t('muck.services.search_problem') + '<p class="support-information">Information for support: <br />' + ex.to_s + '</p>'
   end
 
 end

@@ -100,3 +100,6 @@ padding:3px;
 }
 h2 a{color:white;}
 h2 a:visited{color:white;}
+
+/* support */
+.support-information{font-size:9px;color:#333;}
