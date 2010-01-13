@@ -19,7 +19,7 @@ Rails::Initializer.run do |config|
   config.gem "recaptcha", :lib => "recaptcha/rails"
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
   config.gem 'will_paginate'
-  config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.24'
+  config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.25'
   config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.30'
   config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.7'
   config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.5'
