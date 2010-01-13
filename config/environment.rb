@@ -13,15 +13,15 @@ require 'yaml'
 
 Rails::Initializer.run do |config|
   config.gem 'river', :version => '>=0.1.0'
-  config.gem 'babelphish', :version => '>=0.2.6'
+  config.gem 'babelphish', :version => '>=0.2.7'
   config.gem 'action_mailer_tls', :lib => 'smtp_tls'
   config.gem 'friendly_id'
   config.gem "recaptcha", :lib => "recaptcha/rails"
   config.gem 'bcrypt-ruby', :lib => 'bcrypt', :version => '>=2.1.1'
   config.gem 'will_paginate'
-  config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.19'
-  config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.21'
-  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.6'
+  config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.24'
+  config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.30'
+  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.7'
   config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.5'
 
   # Settings in config/environments/* take precedence over those specified here.
