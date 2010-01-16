@@ -1,6 +1,8 @@
 class EntriesController < Muck::EntriesController
   before_filter :setup_grain_size
   
+  caches_page [:index]
+  
   def setup_grain_size
     @grain_size = 'course'
     @main_domain = 'http://www.folksemantic.com'
