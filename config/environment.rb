@@ -21,8 +21,8 @@ Rails::Initializer.run do |config|
   config.gem 'will_paginate'
   config.gem 'muck-engine', :lib => 'muck_engine', :version => '>=0.2.26'
   config.gem 'muck-services', :lib => 'muck_services', :version => '>=0.1.30'
-  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.7'
-  config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.5'
+  config.gem 'muck-raker', :lib => 'muck_raker', :version => '>=0.3.11'
+  config.gem 'muck-solr', :lib => 'acts_as_solr', :version => '>=0.4.6'
 
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers
