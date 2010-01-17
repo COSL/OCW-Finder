@@ -1,8 +1,7 @@
 class EntriesController < Muck::EntriesController
   before_filter :setup_grain_size
   
-  #caches_page [:index, :list_tags, :browse_courses]
-  caches_page [:index]
+  caches_page [:index, :list_tags, :browse_courses]
   
   def setup_grain_size
     @grain_size = 'course'
