@@ -12,10 +12,4 @@ namespace :muck do
     ["river", "babelphish", "muck-engine", "muck-solr", "muck-raker", "muck-services"]
   end
   
-  desc 'Translate app'
-  task :translate => :environment do
-    puts 'translating'
-    system("babelphish -o -y /Users/jbasdf/projects/ocwfinder/config/locales/en.yml")
-  end
-
 end
