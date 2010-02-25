@@ -21,12 +21,20 @@ ja:
     thank_you_contact: あなたのメッセージをいただきありがとうございます。我々のチームのメンバーがすぐに対応いたします。
   ocwfinder: 
     about: 〜について
+    about_background: "OCW旅行<a href=\"http://cosl.usu.edu\">センターオープン持続可能な学習のための</a>ユタ州立大学で開発された。開発の一部は<a href=\"http://www.mellon.org/\">アンドリュー幅メロン財団</a>によって設立された。"
+    about_description: "OCW Finderの人が無料のオンラインコースOpenCourseWares（OCWsと呼ばれる）を見つけることができます。大学およびその他のOCWプロバイダの人々を見つけるOCWへ旅行に自分たちのコースに登録することができます。"
+    about_nsdl: "現在進行中の開発は、 <a href=\"http://nsdl.org\">国立科学デジタルライブラリ</a>によって資金を供給<a href=\"http://oerrecommender.org\">OERを推薦</a>とOCW Finderの組み合わせは、ソーシャルネットワーキングを追加それに備えています。 <a href=\"http://www.folksemantic.org\">Folksemantic</a>のウェブサイトを訪れることで、この作業についてはこちらをご覧ください。"
+    about_ocwfinder: OCW旅行について
     add_your_ocw: あなたのOCW追加
     browse_by_tags: タグによる閲覧
     browse_courses: またはBrowseコースタグで
+    developers: 開発者
     explore: ウェブを検索
+    joel_bio: entrepenuerとプログラマの数学と科学のための愛です。ジョエル継続的にどのようにデザインし、科学に従事する若者を奨励するためのソフトウェアシステムとオンラインコンテンツの活用についての策謀は、技術、工学、数学。
+    justin_bio: "ソフトウェアコンサルタントと起業家のRuby用の情熱を持っています。彼は、Cから進化+ +や。Net猿のpythonプログラマに、最終的にRubyのデータが見つかりました。めったに見られない場面では、コードについて話してコードを書いていないときに彼が、または1時間あたり冒涜に自分のコードの生産性を測定する場合は、山の中で彼の自転車や道路のキャッシュ渓谷周辺の上で彼を見つけることができます。ジャスティン<a href=\"http://www.justinball.com\">http://www.justinball.com</a>で思い上がった態度を示すことができます。"
     no_courses_found: "コースはありません<b>。{{query}}</b>は見つかりませんでした。"
     search_courses: 検索コース
-    show_tagged_resources: 地図を表示OERs
+    show_tagged_resources: すべて表示OERs
     sign_up: Folksemanticベータ版の登録！
     use_tag_cloud: ブラウズを使用してタグ雲
+    wiley_bio: 准教授教材心理学と技術の最高経営責任者開放役員フラット世界知識のブリガムヤング大学では、創立者は、Open高校ユタ州の。彼は元准教授インストラクショナルテクノロジーセンター所長を開き、持続可能な学習のためのユタ州立大学のだった。

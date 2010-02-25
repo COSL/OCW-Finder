@@ -21,12 +21,20 @@ zh-TW:
     thank_you_contact: 感謝你的信息。一名成員，我們的團隊將在短期內回复您。
   ocwfinder: 
     about: 大約
+    about_background: "開放式課程網頁搜索的開發在<a href=\"http://cosl.usu.edu\">中心的開放式可持續學習</a>在猶他州立大學。發展是部分資金由<a href=\"http://www.mellon.org/\">安德魯糯梅隆基金會</a> 。"
+    about_description: "開放式課程網頁搜索幫助人們找到免費的在線課程稱為 OpenCourseWares（理想班組武器）。大學和其他OCW的供應商可以註冊他們的課程的開放式課程網頁搜索，以幫助人們找到他們。"
+    about_nsdl: "正在進行的開發費用由<a href=\"http://nsdl.org\">國家科學數字圖書館</a>是開放式課程網頁搜索相結合的<a href=\"http://oerrecommender.org\">款額推薦人</a>及社會網絡功能添加它。了解更多有關的工作訪問<a href=\"http://www.folksemantic.org\">Folksemantic</a>網站。"
+    about_ocwfinder: 關於開放式課程網頁搜索
     add_your_ocw: 添加您的開放式課程
     browse_by_tags: 瀏覽標籤
     browse_courses: 或瀏覽課程標籤
+    developers: 開發人員
     explore: 搜索Web
+    joel_bio: 是entrepenuer和編程的熱愛數學和科學。喬爾是一貫圖謀有關如何設計和利用軟件系統和網上內容，鼓勵青年從事科學，技術，工程和數學。
+    justin_bio: "是一個軟件顧問和企業家的熱情紅寶石。他已經從 C + +和。淨猴子到一個 Python程序員，終於找到了紅寶石。在難得的時刻，他不寫代碼，代碼或者談論他的代碼生產率衡量的褻瀆每小時，你可以找到他對他的自行車在山區或道路周邊緩存山谷。賈斯汀可居高臨下的<a href=\"http://www.justinball.com\">http://www.justinball.com。</a>"
     no_courses_found: "沒有課程找到<b>{{query}}。</b>"
     search_courses: 搜索課程
-    show_tagged_resources: "顯示 Oers繼續"
+    show_tagged_resources: 顯示所有Oers繼續
     sign_up: "註冊為 Folksemantic測試！"
     use_tag_cloud: 瀏覽使用標籤雲
+    wiley_bio: 是副教授教學心理和技術在楊百翰大學，行政公開官平世界知識，和方正公開高中猶他州。他曾任副教授教學技術中心主任開放式和可持續學習的猶他州立大學。

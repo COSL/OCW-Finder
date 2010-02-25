@@ -21,7 +21,7 @@ en:
   ocwfinder:
     explore: Search the Web
     no_courses_found: No courses were found for <b>{{query}}</b>.
-    show_tagged_resources: Show OERs
+    show_tagged_resources: Show All OERs
     browse_by_tags: Browse By Tags
     browse_courses: Or Browse Courses By Tag
     use_tag_cloud: Browse Using Tag Clouds
@@ -29,4 +29,13 @@ en:
     add_your_ocw: Add Your OCW
     sign_up: Sign up for the Folksemantic beta!
     search_courses: search courses
+    about_ocwfinder: About OCW Finder
+    about_description: OCW Finder helps people find free online courses called OpenCourseWares (OCWs). Universities and other OCW providers can register their courses with OCW Finder to help people find them.
+    about_background: OCW Finder was developed at the <a href="http://cosl.usu.edu">Center for Open Sustainable Learning</a> at Utah State University. Development was partially funded by the <a href="http://www.mellon.org/">Andrew W Mellon Foundation</a>.
+    about_nsdl: Ongoing development funded by the <a href="http://nsdl.org">National Science Digital Library</a> is combining OCW Finder with <a href="http://oerrecommender.org">OER Recommender</a> and add social networking features to it. Learn more about this work by visiting the <a href="http://www.folksemantic.org">Folksemantic</a> website. 
+    developers: Developers
+    justin_bio: is a software consultant and entrepreneur with a passion for Ruby.  He evolved from C++ and .Net monkey into a python programmer and finally found Ruby.  In the rare moments when he isn't writing code, talking about code or measuring his code productivity in profanity per hour, you can find him on his bike in the mountains or on the roads surrounding Cache Valley.  Justin can be found pontificating at <a href="http://www.justinball.com">http://www.justinball.com</a>.
+    joel_bio: is an entrepenuer and programmer with a love for Math and Science. Joel is continually scheming about how to design and leverage software systems and online content to encourage youth to engage in science, technology, engineering, and mathematics.
+    wiley_bio: is Associate Professor of Instructional Psychology and Technology at Brigham Young University, Chief Openness Officer of Flat World Knowledge, and Founder of the Open High School of Utah. He was formerly Associate Professor of Instructional Technology and Director of the Center for Open and Sustainable Learning at Utah State University.
+
 

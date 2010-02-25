@@ -21,12 +21,20 @@ sq:
     thank_you_contact: "Faleminderit për mesazhin tuaj. Një anëtar i ekipit tonë ju do të përgjigjet së shpejti."
   ocwfinder: 
     about: Rreth
+    about_background: "OCW Finder u zhvillua në <a href=\"http://cosl.usu.edu\">Qendrën e Hapur Mësimore të Qëndrueshëm</a> në Utah State University. Zhvillimi është financuar pjesërisht nga <a href=\"http://www.mellon.org/\">Fondacionit Andrew W. Mellon.</a>"
+    about_description: "OCW Finder ndihmon njerëzit të gjejnë kurse falas online quajtur OpenCourseWares (OCWs). Universitetet dhe punonjës të tjerë OCW mund të regjistrohet kurset e tyre me OCW Finder për të ndihmuar njerëzit të gjejnë ata."
+    about_nsdl: "Zhvillimin e vazhdueshme të financuara nga <a href=\"http://nsdl.org\">Biblioteka Kombëtare Shkenca Digital</a> kombinon OCW Finder me <a href=\"http://oerrecommender.org\">OER Recommender</a> dhe shtoni social networking features to it. Mësoni më shumë për këtë punë duke vizituar faqen e internetit <a href=\"http://www.folksemantic.org\">Folksemantic.</a>"
+    about_ocwfinder: "Rreth OCW Finder"
     add_your_ocw: "Add OCW juaj"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Ose Browse Kurse Nga Tag"
+    developers: Developers
     explore: "Kërko Web"
+    joel_bio: "është një programues entrepenuer dhe me një dashuri për matematike dhe Shkencës. Joeli është vazhdimisht scheming se si të projektimit dhe levave sistemeve software dhe përmbajtjes online për të inkurajuar të rinjtë që të angazhohen në shkencë, teknologji, inxhinieri dhe matematikë."
+    justin_bio: "është një konsulent software dhe sipërmarrës me një pasion për Ruby. Ai ka evoluar nga C + + dhe. Majmun neto në një programues python dhe më në fund gjeti Ruby. Në momente të rralla, kur ai nuk është i shkruar kodin, duke folur në lidhje me kodin apo matur produktivitetin e tij kodi në karakter fetar në orë, ju mund ta gjeni atë në biçikletë e tij në male ose në rrugët përreth Cache Valley. Justin mund të gjenden në pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nuk u gjet kurse për <b>{{query}}.</b>"
     search_courses: "kurse kërko"
-    show_tagged_resources: "Show OERs"
+    show_tagged_resources: "Show All OERs"
     sign_up: "Sign up for beta Folksemantic!"
     use_tag_cloud: "Browse Duke përdorur Tag Clouds"
+    wiley_bio: "është profesor i asociuar mësimore Psikologji dhe Teknologjisë në Brigham Young University, shefi Sinqeriteti Zyrtar i Flat Botërore Njohuri, dhe Themeluesi i Shkollës së Mesme e Hapur Utah. Ai ishte ish-profesor i asociuar mësimore Teknologjia dhe Drejtor i Qendrës për të hapur dhe të qëndrueshëm të mësuar në Utah State University."

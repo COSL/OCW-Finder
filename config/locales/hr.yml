@@ -21,12 +21,20 @@ hr:
     thank_you_contact: "Hvala za poruku. Član našeg tima će odgovoriti na vas uskoro."
   ocwfinder: 
     about: O
+    about_background: "OCW Finder je razvijena u <a href=\"http://cosl.usu.edu\">Centru za održivi Open Learning</a> at Utah State University. Razvoj djelomično je financiran od strane <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW Finder pomaže ljudima da pronađu besplatne online tečajeve pod nazivom OpenCourseWares (OCWs). Sveučilišta i drugih OCW usluga mogu prijaviti svoje tečajeve s OCW Tražilica za pomoć ljudima pronaći ih."
+    about_nsdl: "U tijeku razvoja financira <a href=\"http://nsdl.org\">National Science Digital Library</a> je kombiniranjem OCW Finder s <a href=\"http://oerrecommender.org\">OER Recommender</a> i dodati društven mreža mogućnosti za to. Saznajte više o ovom radu posjetom <a href=\"http://www.folksemantic.org\">Folksemantic</a> website."
+    about_ocwfinder: "O OCW Finder"
     add_your_ocw: "Dodajte Vaš OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Ili Pregledaj tekstove po oznakama"
+    developers: Developers
     explore: "Search the Web"
+    joel_bio: "je entrepenuer i programer sa ljubavlju prema matematici i znanosti. Joel stalno intrigantski o tome kako dizajnirati i poluge softverskih sustava i online sadržaje potaknuti mlade da se uključe u području znanosti, tehnologije, inženjeringa, i matematike."
+    justin_bio: "je softver savjetnik i poduzetnik sa strast za Ruby. On se razvio iz C + +-a. Neto majmun u python programer i napokon postaviti Ruby. U rijetkim trenucima kad mu se ne piše broj, govori o šifra ili kôd za mjerenje njegove produktivnosti po satu u vulgarnost, možete ga naći na njegov bicikl u planinama ili na okolnim cestama Cache Valley. Justin se mogu naći na pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nema tečajevi pronađeni su za <b>{{query}}.</b>"
     search_courses: "Pretraži kolegije"
-    show_tagged_resources: "Pokaži OERs"
+    show_tagged_resources: "Show All OERs"
     sign_up: "Prijavite se za Folksemantic beta!"
     use_tag_cloud: "Browse Korištenje Tag Oblaci"
+    wiley_bio: "je izvanredni profesor za nastavni psihologije i tehnologije na Brigham Young University, glavni direktor Stan Otvorenost svjetskog znanja, a osnivač Otvorenog High School of Utah. On je prije bio izvanredni profesor Instrukcijski tehnologije i direktor Centra za održivi Open i učenje na Utah State University."

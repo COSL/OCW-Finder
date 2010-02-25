@@ -21,12 +21,20 @@ id:
     thank_you_contact: "Terima kasih untuk pesan Anda. Seorang anggota tim kami akan merespon anda segera."
   ocwfinder: 
     about: Tentang
+    about_background: "OCW Finder dikembangkan di <a href=\"http://cosl.usu.edu\">Pusat untuk Open Berkelanjutan Belajar</a> di Utah State University. Pembangunan itu sebagian didanai oleh <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW Finder membantu orang menemukan kursus online gratis yang disebut OpenCourseWares (OCWs). Universitas dan penyedia OCW lain dapat mendaftarkan kursus dengan OCW Finder untuk membantu orang menemukan mereka."
+    about_nsdl: "Pembangunan berkelanjutan yang didanai oleh <a href=\"http://nsdl.org\">National Science Digital Library</a> adalah menggabungkan OCW Finder dengan <a href=\"http://oerrecommender.org\">OER Recommender</a> dan menambahkan fitur-fitur jaringan sosial untuk itu. Pelajari lebih lanjut tentang karya ini dengan mengunjungi <a href=\"http://www.folksemantic.org\">Folksemantic</a> situs web."
+    about_ocwfinder: "Tentang OCW Finder"
     add_your_ocw: "Add Your OCW"
     browse_by_tags: "Browse By Tags"
     browse_courses: "Atau Browse Courses Oleh Tag"
+    developers: Developers
     explore: "Cari Web"
+    joel_bio: "adalah entrepenuer dan pemrogram dengan cinta untuk Matematika dan Sains. Joel terus-menerus licik tentang bagaimana merancang dan memanfaatkan sistem perangkat lunak dan konten online untuk mendorong pemuda untuk terlibat dalam ilmu pengetahuan, teknologi, teknik, dan matematika."
+    justin_bio: "adalah sebuah perangkat lunak konsultan dan pengusaha dengan hasrat untuk Ruby. Ia berevolusi dari C + + dan. Net monyet menjadi piton programmer dan akhirnya menemukan Ruby. Pada saat langka ketika ia tidak menulis kode, berbicara tentang kode atau kode-nya mengukur produktivitas dalam senonoh per jam, Anda dapat menemukannya pada sepeda di pegunungan atau di jalan-jalan sekitar Cache Valley. Justin dapat ditemukan pontificating di <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Tidak ada kursus yang ditemukan untuk <b>{{query}}.</b>"
     search_courses: "cari kursus"
-    show_tagged_resources: "Tampilkan OERs"
+    show_tagged_resources: "Tampilkan Semua OERs"
     sign_up: "Mendaftar untuk Folksemantic beta!"
     use_tag_cloud: "People Menggunakan Tag Clouds"
+    wiley_bio: "adalah Associate Professor of Instructional Psikologi dan Teknologi di Universitas Brigham Young, Chief Officer Keterbukaan Flat Pengetahuan Dunia, dan Pendiri Open High School of Utah. Dia adalah mantan Associate Professor of Instructional Teknologi dan Direktur Pusat Pembelajaran Terbuka dan Berkelanjutan di Utah State University."

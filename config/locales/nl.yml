@@ -21,12 +21,20 @@ nl:
     thank_you_contact: "Dank u voor uw bericht. Een lid van ons team zal reageren binnenkort aan jou."
   ocwfinder: 
     about: Over
+    about_background: "OCW Finder is ontwikkeld bij het <a href=\"http://cosl.usu.edu\">Centrum voor Duurzame Open Leren</a> in Utah State University. Ontwikkeling werd gedeeltelijk gefinancierd door de <a href=\"http://www.mellon.org/\">W Andrew Mellon Foundation.</a>"
+    about_description: "OCW Finder helpt mensen vinden gratis online cursussen genaamd OpenCourseWares (OCWs). Universiteiten en andere aanbieders van OCW kunnen hun cursussen met OCW Finder om mensen te helpen vinden."
+    about_nsdl: "Gaande ontwikkeling gefinancierd door de <a href=\"http://nsdl.org\">National Science Digital Library</a> is het combineren van OCW Finder met <a href=\"http://oerrecommender.org\">OER Recommender</a> en voeg social networking functies aan. Meer informatie over dit werk door naar de <a href=\"http://www.folksemantic.org\">Folksemantic</a> website."
+    about_ocwfinder: "Over OCW Finder"
     add_your_ocw: "Voeg uw OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Of Bekijk cursussen By Tag"
+    developers: Ontwikkelaars
     explore: "Zoeken op het web"
+    joel_bio: "is een entrepenuer en programmeur met een liefde voor wiskunde en wetenschappen. Joel is voortdurend gekonkel over het ontwerp en de hefboomwerking software systemen en online-inhoud om de jeugd te stimuleren om deel te nemen in wetenschap, technologie, techniek en wiskunde."
+    justin_bio: "is een software consultant en ondernemer met een passie voor Ruby. Hij evolueerde van C + + en. Netto aap in een python programmeur en eindelijk gevonden Ruby. In de zeldzame momenten dat hij niet het schrijven van code, het over-code of het meten van de productiviteit in zijn code vloeken per uur, kan je hem vinden op zijn fiets in de bergen of op de wegen rondom Cache Valley. Justin is te vinden op Orakelt <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Geen cursussen gevonden voor <b>{{query}}.</b>"
     search_courses: "Zoek cursussen"
-    show_tagged_resources: "Toon Oers"
+    show_tagged_resources: "Toon Alle Oers"
     sign_up: "Aanmelden voor de Folksemantic beta!"
     use_tag_cloud: "Browse gebruiken Tag Clouds"
+    wiley_bio: "is Associate Professor in de psychologie Educatief en Technologie aan de Brigham Young University, Chief Openheid Officer van Flat World Knowledge, en oprichter van de Open High School van Utah. Voorheen was hij universitair hoofddocent Instructional Technology en directeur van het Center for Open and Sustainable Learning in Utah State University."

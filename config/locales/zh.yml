@@ -21,12 +21,20 @@ zh:
     thank_you_contact: 感谢您的来信。我们的小组成员将很快回复您。
   ocwfinder: 
     about: 大约
+    about_background: "开放式课程网页搜索的开发在犹他州立大学<a href=\"http://cosl.usu.edu\">中心的开放式可持续学习</a> 。发展是部分资金由<a href=\"http://www.mellon.org/\">安德鲁糯梅隆基金会</a> 。"
+    about_description: 开放式课程网页搜索帮助人们找到免费的在线课程称为OpenCourseWares（理想班组武器）。大学和其他开放式课程提供者可以登记，查询其开放式课程的课程，帮助人们找到他们。
+    about_nsdl: "持续发展的<a href=\"http://nsdl.org\">国家科学数字图书馆</a>资助的结合<a href=\"http://oerrecommender.org\">款额推荐人</a> OCW的搜索和社交网络功能添加到它。了解这一访问<a href=\"http://www.folksemantic.org\">Folksemantic</a>网站工作的。"
+    about_ocwfinder: 关于开放式课程网页搜索
     add_your_ocw: 添加您的开放式课程
     browse_by_tags: 浏览标签
     browse_courses: 或浏览课程标签
+    developers: 开发人员
     explore: 搜索Web
+    joel_bio: 是entrepenuer，并为数学和科学的爱程序员。乔尔是一贯图谋有关如何设计和利用软件系统和网上内容，鼓励青年从事科学，技术，工程和数学。
+    justin_bio: "是一个软件顾问和Ruby的热情企业家。他已经从C + +和。净猴子到一个Python程序员，终于找到了红宝石。在难得的时刻，他不写代码，有关代码讨论或测量每小时生产率亵渎他的代码，你可以找到他的自行车在山区或道路周边缓存谷他。贾斯汀可在<a href=\"http://www.justinball.com\">http://www.justinball.com</a>而论道。"
     no_courses_found: "没有课程找到<b>{{query}}。</b>"
     search_courses: 搜索课程
-    show_tagged_resources: 显示Oers继续
+    show_tagged_resources: 显示所有Oers继续
     sign_up: 注册为Folksemantic测试！
     use_tag_cloud: 浏览使用标签云
+    wiley_bio: 是心理学副教授教学和技术教授杨百翰大学，行政公开官平世界知识，并公开高中犹他州创始人。他曾任副教育技术和在美国犹他州州立大学中心开放和可持续学习主任。

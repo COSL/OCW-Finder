@@ -21,12 +21,20 @@ pl:
     thank_you_contact: "Dziękuję za wiadomość. Członkiem naszego zespołu będzie odpowiadał na Tobą."
   ocwfinder: 
     about: O
+    about_background: "OCW Finder został opracowany w <a href=\"http://cosl.usu.edu\">Centrum Otwartej Zrównoważony Nauka</a> w Utah State University. Rozwój był częściowo finansowany przez <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW Finder pomaga ludziom znaleźć darmowe kursy online o nazwie OpenCourseWares (OCWs). Uniwersytetów i innych dostawców OCW mogą zarejestrować swoje kursy z OCW Finder, aby pomóc ludziom w ich znalezieniu."
+    about_nsdl: "W toku rozwoju finansowany przez <a href=\"http://nsdl.org\">National Science Digital Library</a> jest łączenie OCW Finder <a href=\"http://oerrecommender.org\">OER Polecane</a> social networking i dodać do niego funkcje. Dowiedz się więcej o tej pracy, odwiedzając <a href=\"http://www.folksemantic.org\">Folksemantic</a> stronie."
+    about_ocwfinder: "O OCW Wyszukiwarka"
     add_your_ocw: "Dodaj swój OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Lub Przeglądaj Kursy według tagów"
+    developers: Developers
     explore: "Szukaj w Internecie"
+    joel_bio: "jest entrepenuer i programista z miłości do matematyki i Nauki. Joel ciągle kombinuje na temat projektowania i dźwigni systemów oprogramowania i treści online, aby zachęcić młodzież do zaangażowania się w nauce, technologii, inżynierii i matematyki."
+    justin_bio: "jest konsultantem oprogramowania i przedsiębiorca z pasją dla języka Ruby. On ewoluował od C + + i. Net Małpa w programisty Pythona i wreszcie znaleźć Ruby. W rzadkich chwilach, gdy nie jest on pisania kodu, mówienie o kod lub pomiaru jego wydajności kodu przekleństw na godzinę, można go znaleźć na rowerze w górach lub na drogach otaczających Cache Valley. Justin można znaleźć WYGŁASZAM na <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Brak kursów uznano za <b>{{query}}.</b>"
     search_courses: "Przeszukaj kursy"
-    show_tagged_resources: "Pokaż Oers"
+    show_tagged_resources: "Pokaż wszystkie Oers"
     sign_up: "Zamów Folksemantic beta!"
     use_tag_cloud: "Ludzie Korzystanie Tag Clouds"
+    wiley_bio: "jest profesorem nadzwyczajnym w Instructional Psychology and Technology at Brigham Young University, główny Otwartość Officer Flat World Knowledge i założyciel Open High School of Utah. Był dawniej Associate Professor Instructional Technology i dyrektor Centrum Otwartej i zrównoważonego Nauka w Utah State University."

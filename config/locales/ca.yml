@@ -21,12 +21,20 @@ ca:
     thank_you_contact: "Gràcies pel seu missatge. Un membre del nostre equip respondrà en breu."
   ocwfinder: 
     about: Sobre
+    about_background: "OCW Finder es va desenvolupar al <a href=\"http://cosl.usu.edu\">Centre d&#39;Aprenentatge Obert Sostenible</a> a Utah State University. Desenvolupament va ser parcialment finançat per la <a href=\"http://www.mellon.org/\">Fundació Andrew W Mellon.</a>"
+    about_description: "OCW Cercador d&#39;ajuda a les persones trobar cursos en línia gratuït que s&#39;anomena OpenCourseWare (TCE). Universitats i altres proveïdors de OCW poden registrar els seus cursos amb OCW Finder per ajudar a la gent les troba."
+    about_nsdl: "El desenvolupament en curs finançat per la <a href=\"http://nsdl.org\">National Science Digital Library</a> és la combinació de OCW Finder amb <a href=\"http://oerrecommender.org\">OER Recommended</a> i afegir característiques de xarxes socials a la mateixa. Apreneu més sobre aquest treball, visitant el lloc web de <a href=\"http://www.folksemantic.org\">Folksemantic.</a>"
+    about_ocwfinder: "Sobre OCW Finder"
     add_your_ocw: "Afegir la OCW"
     browse_by_tags: "Cerca per etiquetes"
     browse_courses: "O navegar per cursos Tag"
+    developers: Desenvolupadors
     explore: "Cerca al Web"
+    joel_bio: "és un nou empresari i el programador amb un amor per les matemàtiques i ciències. Joel està contínuament maquinant sobre com dissenyar i aprofitar els sistemes de programari i continguts en línia per encoratjar els joves a participar en la ciència, tecnologia, enginyeria i matemàtiques."
+    justin_bio: "és un consultor de programari i empresari amb una passió per Ruby. El passat de C + + i. Net mico en un programador de Python i finalment va trobar Ruby. En els rars moments quan no està escrivint el codi, codi o parlant de la mesura de la productivitat del seu codi a profans per hora, se li pot trobar en la seva bicicleta a les muntanyes o en les carreteres que envolten Cache Valley. Justin es pot trobar a pontificar <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "No hi ha cursos s&#39;han trobat <b>{{query}}.</b>"
     search_courses: "Cerca de cursos"
-    show_tagged_resources: "Mostra OER"
+    show_tagged_resources: "Mostra tots els OER"
     sign_up: "Apunta&#39;t a la beta Folksemantic!"
     use_tag_cloud: "Navegar usant Núvols d&#39;etiquetes"
+    wiley_bio: "és Professor Associat de Psicologia d&#39;Instrucció i Tecnologia en la Universitat Brigham Young, Cap d&#39;Obertura Oficial de Flat World Knowledge, i fundador de l&#39;Escola Superior Obert de Utah. Anteriorment va ser professor associat de Tecnologia instruccional i Director del Center for Open and Sustainable Learning de la Utah State University."

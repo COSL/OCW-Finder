@@ -21,12 +21,20 @@ ro:
     thank_you_contact: "Vă mulţumim pentru mesaj. Un membru al echipei noastre va va raspunde in scurt timp."
   ocwfinder: 
     about: Despre
+    about_background: "OCW Finder a fost dezvoltat la <a href=\"http://cosl.usu.edu\">Centrul pentru Open de studiu durabile</a> de la Universitatea de Stat din Utah. Dezvoltare a fost parţial finanţat de către <a href=\"http://www.mellon.org/\">Fundaţia W Andrew Mellon.</a>"
+    about_description: "OCW Finder îi ajută pe oameni să găsească cursuri online gratuite numit OpenCourseWares (OCWs). Universităţile şi alţi furnizori de OCW pot înregistra cursurile lor cu OCW Finder pentru a ajuta oamenii să le găsească."
+    about_nsdl: "În curs de dezvoltare finanţat de <a href=\"http://nsdl.org\">National Science Digital Library</a> este combinarea OCW Finder cu <a href=\"http://oerrecommender.org\">RED Recommender</a> şi se adaugă reţele sociale caracteristici la ea. Aflaţi mai multe despre acest lucru vizitând site-ul web <a href=\"http://www.folksemantic.org\">Folksemantic.</a>"
+    about_ocwfinder: "Despre OCW Finder"
     add_your_ocw: "Adauga OCW dvs."
     browse_by_tags: "Browse by Tags"
     browse_courses: "Sau Vezi Cursuri dupa tag-uri"
+    developers: Dezvoltatorii
     explore: "Căutaţi pe Web"
+    joel_bio: "este un entrepenuer şi programator, cu o dragoste pentru matematica si stiinta. Joel este de intrigă în permanenţă cu privire la modul de proiectare şi de pârghie sisteme software şi de conţinut online, pentru a încuraja tinerii să se angajeze în ştiinţă, tehnologie, inginerie, şi matematică."
+    justin_bio: "este un consultant software şi antreprenor cu o pasiune pentru Ruby. El a evoluat de la C + + şi. Maimuţă net într-un programator Python şi găsit în sfârşit Ruby. În momente rare, atunci când nu el este scrierea de cod, vorbind despre codul sau de măsurare a productivităţii sale de cod în profanitate pe oră, puteţi găsi-l pe bicicleta la munte sau de pe drumurile din jurul Cache Valley. Justin pot fi găsite la pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nu au fost gasite cursuri pentru <b>{{query}}.</b>"
     search_courses: "cursuri de căutare"
-    show_tagged_resources: "Show OERs"
+    show_tagged_resources: "Show All OERs"
     sign_up: "Înscrieţi-vă pentru versiunea beta Folksemantic!"
     use_tag_cloud: "Vezi Utilizarea Tag Clouds"
+    wiley_bio: "este profesor asociat de instruire Psihologie şi Tehnologie la Universitatea Brigham Young, Director Deschiderea Officer al plat Mondiale de cunoştinţe, şi fondator al Open High School din Utah. El a fost anterior profesor asociat de instruire Tehnologie şi director al Centrului pentru Open şi durabilă învăţării la Universitatea de Stat din Utah."

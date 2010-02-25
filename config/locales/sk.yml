@@ -21,12 +21,20 @@ sk:
     thank_you_contact: "Ďakujeme Vám za Vašu správu. Člen nášho tímu bude reagovať na vás v najbližšej dobe."
   ocwfinder: 
     about: O
+    about_background: "OCW Finder bol vyvinutý v <a href=\"http://cosl.usu.edu\">Center for Open udržateľný učenia</a> na Utah State University. Vývoj bol čiastočne financovaný <a href=\"http://www.mellon.org/\">W Andrew Mellon Foundation.</a>"
+    about_description: "OCW Finder pomáha ľuďom nájsť voľné on-line kurzy s názvom OpenCourseWares (OCWs). Univerzít a ďalších OCW poskytovatelia môžu zaregistrovať svoje kurzy s OCW Finder, aby pomohol ľuďom nájsť."
+    about_nsdl: "Neustály vývoj financovaný <a href=\"http://nsdl.org\">National Science Digital Library</a> kombinuje OCW Finder s <a href=\"http://oerrecommender.org\">OER stránky odporučil</a> a pridať sociálnych sietí funkcie na to. Ďalšie informácie o tejto práci pri návšteve <a href=\"http://www.folksemantic.org\">Folksemantic</a> webových stránkach."
+    about_ocwfinder: "O OCW Finder"
     add_your_ocw: "Pridajte svoj OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Kurzy na Prehľadávať podľa tagov"
+    developers: Vývojári
     explore: "Hľadať na webe"
+    joel_bio: "Je entrepenuer programátor s láskou pre matematiku a prírodné vedy. Joel je neustále machinácií o tom, ako navrhovať a využívať softvérové systémy a on-line obsahu na podporu mládeže, aby sa zapojili do oblasti vedy, techniky, inžinierstva a matematiky."
+    justin_bio: "je softvérový poradca a podnikateľ s vášňou pre Ruby. Ten sa vyvinul z C + + a. Čistá opice do python programátora a nakoniec našiel Ruby. Vo vzácnych chvíľach, keď nie je písanie kódu, hovorí o kódu alebo číslo jeho meranie produktivity v rúhanie za hodinu, nájdete ho na bicykli v horách alebo na cestách v okolí Cache Valley. Justin možno nájsť na poučováním <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Neboli nájdené žiadne kurzy pre <b>{{query}}.</b>"
     search_courses: "Hľadanie kurzov"
-    show_tagged_resources: "Zobraziť OERs"
+    show_tagged_resources: "Zobraziť všetky OERs"
     sign_up: "Prihlásiť sa na Folksemantic beta!"
     use_tag_cloud: "Ľudia Použitie Tag Clouds"
+    wiley_bio: "je docentom pre výučbu psychológie a technológie na Brigham Young University, generálny riaditeľ spoločnosti Otvorenosť Byt World vedomostí a zakladateľ nadácie Open High School of Utah. Bol skôr docent pre výučbu technológie a riaditeľ Centra pre otvorené a trvalo udržateľný rozvoj vzdelávania na Utah State University."

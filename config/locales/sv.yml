@@ -21,12 +21,20 @@ sv:
     thank_you_contact: "Tack för ditt meddelande. En medlem i vårt team kommer att svara dig inom kort."
   ocwfinder: 
     about: Om
+    about_background: "OCW Finder har utvecklats vid <a href=\"http://cosl.usu.edu\">Centrum för Hållbar Open Learning</a> vid Utah State University. Utveckling finansierades delvis av <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW Finder hjälper folk att hitta gratis online kurser kallas OpenCourseWares (OCWs). Universitet och andra OCW leverantörer kan registrera sina kurser med OCW Finder att hjälpa människor att hitta dem."
+    about_nsdl: "Pågående utveckling finansieras av <a href=\"http://nsdl.org\">National Science Digital Library</a> kombinerar OCW Finder med <a href=\"http://oerrecommender.org\">OER recommender</a> och lägg till sociala nätverk dragen till det. Läs mer om detta arbete genom att besöka <a href=\"http://www.folksemantic.org\">Folksemantic</a> webbplats."
+    about_ocwfinder: "Om OCW Finder"
     add_your_ocw: "Add Your OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Eller Bläddra kurser efter tagg"
+    developers: Utvecklare
     explore: "Sök på webben"
+    joel_bio: "är entrepenuer och programmerare med en kärlek för matematik och naturvetenskap. Joel ständigt intrigerande om hur man designar och utnyttja mjukvarusystem och online-innehåll för att uppmuntra ungdomar att engagera sig i vetenskap, teknik, teknik och matematik."
+    justin_bio: "är en programvara konsult och entreprenör med passion för Ruby. Han utvecklades från C + + och. Net apa i en Python-programmerare och äntligen hittat Ruby. I de sällsynta tillfällen då han inte skriva kod, talar om kod eller mäta sin kod produktiviteten i svordomar per timme, kan du finna honom på sin motorcykel i bergen eller på vägarna kring Cache Valley. Justin kan hittas PREDIKSTOLEN på <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Inga kurser hittades för <b>{{query}}.</b>"
     search_courses: "Sök kurser"
-    show_tagged_resources: "Visa Oers"
+    show_tagged_resources: "Visa alla Oers"
     sign_up: "Registrera dig för Folksemantic beta!"
     use_tag_cloud: "Bläddra Använda Tag Clouds"
+    wiley_bio: "är docent i Instructional psykologi och teknik vid Brigham Young University, Chief Öppenhet Officer av Flat World Knowledge, och grundare av Open High School Utah. Han var tidigare biträdande professor i undervisningsteknologi och chef för Center for Open and Sustainable Learning vid Utah State University."

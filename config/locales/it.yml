@@ -21,12 +21,20 @@ it:
     thank_you_contact: "Grazie per il vostro messaggio. Un membro del nostro team risponderà al più presto."
   ocwfinder: 
     about: Circa
+    about_background: "OCW Finder è stato sviluppato presso il <a href=\"http://cosl.usu.edu\">Center for Open Learning sostenibile</a> a Utah State University. Lo sviluppo è stato parzialmente finanziato dalla <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW Finder aiuta le persone a trovare i corsi on-line gratuito chiamato OpenCourseWares (OCWs). Università e altri fornitori di OCW possono registrare i propri corsi con OCW Finder per aiutare le persone a trovare loro."
+    about_nsdl: "Continuo sviluppo finanziato dalla <a href=\"http://nsdl.org\">National Science Digital Library</a> è combinare OCW Finder con <a href=\"http://oerrecommender.org\">OER Consigli</a> e aggiungere funzionalità di social networking ad esso. Saperne di più questo lavoro visitando il sito <a href=\"http://www.folksemantic.org\">Folksemantic.</a>"
+    about_ocwfinder: "About OCW Finder"
     add_your_ocw: "Aggiungi il tuo OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "O Mostra Corsi per tag"
+    developers: Developers
     explore: "Cerca nel web"
+    joel_bio: "è un entrepenuer e programmatore con un amore per la matematica e le scienze. Joel è continuamente tramando su come progettare e sfruttare i sistemi di software e contenuti on-line di incoraggiare i giovani a impegnarsi nel campo della scienza, tecnologia, ingegneria e matematica."
+    justin_bio: "è un consulente di software e di imprenditore con la passione per Ruby. Egli si è evoluta da C + + e. Scimmia Net in un programmatore Python e Ruby finalmente trovato. Nei rari momenti, quando non è la scrittura di codice, parlando di codice o di misura la sua produttività di codice in linguaggio blasfemo per ora, è possibile trovarlo sulla sua bicicletta in montagna o sulle strade che circondano Cache Valley. Justin si possono trovare a pontificare <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "N. corsi sono stati trovati <b>{{query}}.</b>"
     search_courses: "Cerca corsi"
-    show_tagged_resources: "Mostra Oers"
+    show_tagged_resources: "Mostra tutti Oers"
     sign_up: "Iscriviti alla beta Folksemantic!"
     use_tag_cloud: "Sfoglia Uso Tag Clouds"
+    wiley_bio: "è Professore Associato di Psicologia Educativi e tecnologia alla Brigham Young University, Chief Officer di apertura Flat World Knowledge, e fondatore della Open High School of Utah. Era già Professore Associato di Instructional Technology e Direttore del Center for Open and Sustainable Learning at Utah State University."

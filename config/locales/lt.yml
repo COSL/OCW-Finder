@@ -21,12 +21,20 @@ lt:
     thank_you_contact: "Dėkojame už pranešimą. Mūsų komandos narys turės atsakyti Jumis."
   ocwfinder: 
     about: Apie
+    about_background: "OCW skambučių buvo parengtas <a href=\"http://cosl.usu.edu\">atviro darnaus mokymo centro</a> prie Utah State University. Plėtros buvo dalinai finansuojamas <a href=\"http://www.mellon.org/\">W Andrew Mellon fondas.</a>"
+    about_description: "OCW skambučių padeda žmonėms rasti nemokamus internetinius kursus vadinamas OpenCourseWares (OCWs). Universitetai ir kitos OCW teikėjai gali užregistruoti savo kursus OCW skambučių padėti žmonėms rasti."
+    about_nsdl: "Kuriama finansuoja <a href=\"http://nsdl.org\">Nacionalinis mokslo skaitmeninė biblioteka</a> yra sujungti OCW skambučių su <a href=\"http://oerrecommender.org\">AMŠ Rekomenduokite</a> ir pridėti socialinio tinklo ypatybės jį. Sužinokite daugiau apie šią apsilankę <a href=\"http://www.folksemantic.org\">Folksemantic</a> svetainės darbą."
+    about_ocwfinder: "Apie OCW paieška"
     add_your_ocw: "Pridėti OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Arba Žmonės Kursai by Tag"
+    developers: Programavimas
     explore: "Paieška internete"
+    joel_bio: "yra entrepenuer ir programuotojas su matematikos ir mokslo meilės. Joel nuolat machinacijos apie tai, kaip dizainas ir sverto sistemų programinės įrangos ir interneto turinio skatinti jaunimą įsitraukti į mokslo, technologijos, inžinerijos ir matematikos."
+    justin_bio: "yra programinės įrangos konsultantas, verslininkas ir su for Ruby aistra. Jis vystėsi nuo C + +. NET beždžionė į python programuotojas ir pagaliau rado Ruby. Tais retais momentais, kai jis negali rašyti kodą, kalbant apie kodo arba jo matavimo kodas našumo nešvankybių per valandą, galite rasti jį į savo dviračiu kalnuose ar ant kelių aplinkinių Cache Valley. Justin galima rasti pamokslai ne <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nr kursai nerasta <b>{{query}}.</b>"
     search_courses: "Ieškoti kursų"
-    show_tagged_resources: "Rodyti OERs"
+    show_tagged_resources: "Rodyti visus OERs"
     sign_up: "Užsiregistruoti Folksemantic beta versija!"
     use_tag_cloud: "Žmonės Naudojant Tag Clouds"
+    wiley_bio: "yra docentas instructional Psichologija ir Technology at Brigham Young University, vyriausiasis Atvirumas pareigūnas Butas Pasaulio žinios ir įkūrėjas Atidaryti High School Utah. Jis anksčiau docentė instructional technologijos ir direktorius už atvirą ir tvarią mokymo centras Utah State University."

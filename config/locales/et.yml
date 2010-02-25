@@ -21,12 +21,20 @@ et:
     thank_you_contact: "Tänan Teid kirja eest. Liige meeskond vastab teile peagi."
   ocwfinder: 
     about: Kohta
+    about_background: "OCW otsing töötati <a href=\"http://cosl.usu.edu\">Center for Open säästva õppe</a> at Utah State University. Areng oli osaliselt rahastatud <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW otsing aitab inimestel leida tasuta online kursust kutsus OpenCourseWares (OCWs). Ülikoolid ja teised OCW pakkujad saavad registreerida oma kursuste OCW Finder aitavad inimestel neid leida."
+    about_nsdl: "Pidev arendamine, mida rahastatakse <a href=\"http://nsdl.org\">National Science Digital Library</a> ühendab OCW Finder koos <a href=\"http://oerrecommender.org\">OER Recommender</a> ja lisada sotsiaalse võrgustiku funktsioone ta. Lisateavet selle töö külastades <a href=\"http://www.folksemantic.org\">Folksemantic</a> veebilehel."
+    about_ocwfinder: "Info OCW otsing"
     add_your_ocw: "Lisa oma OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Või Kursuste sirvimine by Tag"
+    developers: Developers
     explore: "Search the Web"
+    joel_bio: "on entrepenuer ja programmeerija on armastus Math and Science. Joel on jätkuvalt intrigeeriv, kuidas kavandada ja võimendama tarkvarasüsteemide ja Internetis julgustada noori tegelema teaduse, tehnika, tehnoloogia ja matemaatika."
+    justin_bio: "on tarkvara konsultant ja ettevõtja koos kirg Ruby. Ta arenes välja C + +. Puhas ahv arvesse Pythoni programmeerija ja lõpuks leiti Ruby. Neil harvadel hetkedel, kui ta ei kirjuta koodi, räägime koodi või mõõta oma koodi tootlikkuse vandumine tunni kohta, leiate teda jalgrattaga mägedes või teed ümbritsevale Cache Valley. Justin võib leida pontificating kell <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nr kursuseid ei leitud <b>{{query}}.</b>"
     search_courses: "Otsi kursusi"
-    show_tagged_resources: "Näita OERs"
+    show_tagged_resources: "Näita Kõiki OERs"
     sign_up: "Registreeru Folksemantic beeta!"
     use_tag_cloud: "Lehitse kasutamine Tag Clouds"
+    wiley_bio: "on dotsent Muusika Psühholoogia ja tehnoloogia juures Brigham Young University, Chief Avatus Officer Korter maailm Teadmised ja asutaja Avatud High School Utah. Ta oli varem dotsent Instructional Technology direktor Keskus avatud ning jätkusuutliku Õpe Utah State University."

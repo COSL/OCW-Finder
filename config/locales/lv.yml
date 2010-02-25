@@ -21,12 +21,20 @@ lv:
     thank_you_contact: "Paldies par jūsu ziņojumu. Mūsu komandas loceklis atbildēs Jums tuvākajā laikā."
   ocwfinder: 
     about: Par
+    about_background: "OCW Finder bija izstrādāts <a href=\"http://cosl.usu.edu\">uz Open Ilgtspējīgas Learning</a> at Utah State University <a href=\"http://cosl.usu.edu\">Center.</a> Attīstība tika daļēji finansē <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW meklētājs palīdz cilvēkiem atrast bezmaksas tiešsaistes kursus sauc OpenCourseWares (OCWs). Universitātes un citas OCW sniedzēji var reģistrēt savu kursu ar OCW Finder, lai palīdzētu cilvēkiem atrast viņiem."
+    about_nsdl: "Tālākai attīstībai, ko finansē <a href=\"http://nsdl.org\">National Science Digitālā bibliotēka</a> apvieno OCW Finder ar <a href=\"http://oerrecommender.org\">OER Recommender</a> un pievienot sociālo tīklu īpatnības uz to. Uzzināt vairāk par šo darbu, apmeklējot <a href=\"http://www.folksemantic.org\">Folksemantic</a> mājas lapā."
+    about_ocwfinder: "Par OCW Finder"
     add_your_ocw: "Pievienot savu OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Or Browse Courses by tag"
+    developers: Izstrādātāji
     explore: "Search Web"
+    joel_bio: "ir entrepenuer un programmētājs ar mīlestību Matemātika un zinātne. Joel nepārtraukti scheming par to, lai izstrādātu un piesaistītu programmatūras sistēmām un tiešsaistes saturu, lai veicinātu jauniešu iesaistīšanos zinātnē, tehnoloģijās, inženierzinātnēs un matemātikā."
+    justin_bio: "ir programmatūras konsultants un uzņēmējs ar passion Ruby. Viņš ir attīstījusies no C + + un. NET pērtiķiem stājas Python programmētājs un beidzot atklāja, Ruby. Kas reto brīžos, kad viņš nav rakstiski kods, runājot par kodu vai mērīšanas viņa kods produktivitāti lādēšanās stundā, jūs varat atrast viņu ar velosipēds kalnos vai uz ceļiem apkārtējo Cache Valley. Justin var atrast pontificating pie <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nē kursi tika atrasti <b>{{query}}.</b>"
     search_courses: "Meklēt kursus"
-    show_tagged_resources: "Show OERs"
+    show_tagged_resources: "Parādīt visus OERs"
     sign_up: "Pierakstīties Folksemantic beta!"
     use_tag_cloud: "Browse Izmantojot Tagu Mākoņi"
+    wiley_bio: "ir asociētais profesors Instructional Psychology and Technology at Brigham Young University, Chief atklātums Plakanā pasaule Knowledge Officer, un dibinātājs Open High Jūtas skolā. Viņš bija agrāk asociētais profesors Instructional Technology un direktoram par atvērta un ilgtspējīga Learning at Utah State University Center."

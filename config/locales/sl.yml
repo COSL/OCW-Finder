@@ -21,12 +21,20 @@ sl:
     thank_you_contact: "Hvala za vaše sporočilo. Član naše ekipe se bodo odzvali na vas v kratkem."
   ocwfinder: 
     about: O
+    about_background: "OCW Finder je bil razvit na <a href=\"http://cosl.usu.edu\">Centru za trajnostni Open učenje</a> na Utah State University. Razvoj je bil delno financira <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation.</a>"
+    about_description: "OCW Finder pomaga ljudem najti brezplačne spletne tečaje imenovane OpenCourseWares (OCWs). Univerze in drugi ponudniki lahko OCW registrirati svoje tečaje z OCW Finder pomagati ljudem najti."
+    about_nsdl: "V teku razvoja, ki jih financira <a href=\"http://nsdl.org\">National Science digitalne knjižnice</a> je združevanje OCW Finder s <a href=\"http://oerrecommender.org\">OER Recommender</a> in dodajte socialno povezovanje funkcij z njo. Preberite več o tem delu, da obiščete <a href=\"http://www.folksemantic.org\">Folksemantic</a> spletni strani."
+    about_ocwfinder: "O OCW Finder"
     add_your_ocw: "Dodaj OCW"
     browse_by_tags: "Browse By Tags"
     browse_courses: "Ali Brskaj Tečaji By Tag"
+    developers: Developers
     explore: "Search Web"
+    joel_bio: "je entrepenuer in programer z ljubeznijo za znanost in Math. Joel nenehno spletkari o tem, kako oblikovati in moč programskih sistemov ter spletnih vsebinah za spodbujanje mladih za sodelovanje v znanosti, tehnologije, inženiring in matematiko."
+    justin_bio: "je programska oprema svetovalec in podjetnik, s strastjo za Ruby. On je razvil iz C + + in. Neto opica v python programerja in končno našel Ruby. V redkih trenutkih, ko se ne bi pisal kodo, ki govori o kodo ali kodo, njegov merjenje produktivnosti v psovke na uro, lahko najdete ga na svojem kolesu, v gorah ali na okoliških cestah Cache Valley. Justin je mogoče najti na pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Št tečaji so bile ugotovljene za <b>{{query}}.</b>"
     search_courses: "iskanje tečaji"
-    show_tagged_resources: "Prikaži OERs"
+    show_tagged_resources: "Prikaži vse OERs"
     sign_up: "Prijavite se za Folksemantic beta!"
     use_tag_cloud: "Brskanje Uporaba Tag Clouds"
+    wiley_bio: "je izredni profesor za psihologijo Instructional in tehnologijo na Brigham Young University, Javnost vodja pisarne Svetovne Stanovanje znanja, ter Ustanovitelj Open High School of Utah. On je bil prej profesor Instructional tehnologijo in direktor Centra za trajnostni Open in učenje na Utah State University."

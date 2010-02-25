@@ -21,12 +21,20 @@ hu:
     thank_you_contact: "Köszönjük az üzenetet. A csapatunk tagja lesz hamarosan válaszolunk Önnek."
   ocwfinder: 
     about: Körülbelül
+    about_background: "OCW Finder fejlesztettek ki a <a href=\"http://cosl.usu.edu\">Center for Open Fenntartható tanulás</a> a Utah Állami Egyetemen. Fejlesztési részben finanszírozza <a href=\"http://www.mellon.org/\">W Andrew Mellon Alapítvány.</a>"
+    about_description: "OCW Finder segít az embereknek megtalálni ingyenes online tanfolyamokat hívott OpenCourseWares (OCWs). Az egyetemek és más szolgáltatók OCW regisztrálhatják kurzusok OCW Finder hogy segítsen az embereknek megtalálni őket."
+    about_nsdl: "Folyamatos fejlesztése által finanszírozott <a href=\"http://nsdl.org\">National Science Digitális Könyvtár</a> is ötvözi a Finder OCW <a href=\"http://oerrecommender.org\">OER Recommender</a> és adjunk hozzá közösségi funkciókkal hozzá. Tudjon meg többet ezt a munkát, ha felkeresi a <a href=\"http://www.folksemantic.org\">Folksemantic</a> honlapján."
+    about_ocwfinder: "About OCW Finder"
     add_your_ocw: "Add Your OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Vagy a Tallózás tanfolyamok Tag"
+    developers: Fejlesztőknek
     explore: "Keresés a weben"
+    joel_bio: "van egy entrepenuer és programozó a szerelem matematika és természettudományok területén. Joel folyamatosan cselszövő, hogyan lehet a tervezési és kiegyenlítő rendszerek és a szoftverek az online tartalmak, hogy ösztönözzék a fiatalok, hogy vegyenek részt a tudomány, a technológia, a mérnöki, és a matematika."
+    justin_bio: "egy szoftver-és tanácsadó vállalkozóként egy szenvedélyes Ruby. Úgy alakult a C + + és. Net majom egy python programozó és végül talált Ruby. Azokban a ritka pillanatokban, amikor nincs kód írása beszélünk kód vagy a mérési kódot termelékenység káromkodás óránként, talál neki a kerékpárt, a hegyekben vagy a környező utakon Cache Valley. Justin megtalálható pontificating a <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Nincs tanfolyamokat talált <b>{{query}}.</b>"
     search_courses: "Kurzusok keresése"
-    show_tagged_resources: "Show OERs"
+    show_tagged_resources: "Összes OERs"
     sign_up: "Iratkozzon fel a Folksemantic béta!"
     use_tag_cloud: "Tallózás használata Tag Clouds"
+    wiley_bio: "az egyetemi docens az Instructional Psychology and Technology a Brigham Young University, nyitottsága vezető tisztviselője Lakás World tudás, és alapítója a Nyílt High School of Utah. Korábban egyetemi docens Az oktatási és Technológiai Központ igazgatója számára nyitott és fenntartható tanulás Utah Állami Egyetemen."

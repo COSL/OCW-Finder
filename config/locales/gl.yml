@@ -21,12 +21,20 @@ gl:
     thank_you_contact: "Grazas pola túa mensaxe. Un membro do noso equipo debería responder en breve."
   ocwfinder: 
     about: Sobre
+    about_background: "OCW Find foi desenvolvido no <a href=\"http://cosl.usu.edu\">Centro de Aprendizaxe Aberto sostible</a> na Utah State University. Desenvolvemento foi parcialmente financiado pola <a href=\"http://www.mellon.org/\">W Andrew Mellon Foundation.</a>"
+    about_description: "OCW Find axuda a xente a atopar cursos on-line gratis chamado OpenCourseWares (OCWs). Universidades e outros prestadores OCW pode rexistrar os seus cursos con OCW Find para axudar a xente a atopalos."
+    about_nsdl: "Desenvolvemento en curso financiado pola <a href=\"http://nsdl.org\">National Science Digital Library</a> está combinando co OCW Find <a href=\"http://oerrecommender.org\">REA recommend</a> e engadir funcionalidades de rede social para el. Máis información sobre este traballo visitando a web <a href=\"http://www.folksemantic.org\">Folksemantic.</a>"
+    about_ocwfinder: "Sobre o OCW Find"
     add_your_ocw: "Engadir o seu OCW"
     browse_by_tags: "Navegar por Tags"
     browse_courses: "Ou buscar cursos por Tag"
+    developers: Developers
     explore: "Buscar na web"
+    joel_bio: "é unha entrepenuer e desenvolvedor cun amor pola Matemáticas e Ciencias. Joel é continuamente a planear sobre como crear e alavancar os sistemas de software e contido online para animar a mocidade a participar na ciencia, tecnoloxía, enxeñería e matemáticas."
+    justin_bio: "é un consultor de software e empresario cunha paixón para Ruby. El evolucionou a partir do C + + e. Monkey líquido en un programador Python e finalmente atopei o Ruby. Nos raros momentos cando non está escribindo código falando sobre o código ou medir a productividade de código no profanity por hora, podes atopalo na súa bicicleta nas montañas ou nas estradas que rodean caché Valley. Justin pode atoparse en la Pontificia <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "Ningún curso se atopou a <b>{{query}}.</b>"
     search_courses: "Buscar en cursos"
-    show_tagged_resources: "Show OERs"
+    show_tagged_resources: "Show All OERs"
     sign_up: "Cadastre-se para o beta Folksemantic!"
     use_tag_cloud: "Navega usando Tag Clouds"
+    wiley_bio: "é Profesor Asociado de Psicoloxía Instrucional e Tecnoloxía da Universidade Brigham Young, director de apertura oficial do plana World Knowledge, e fundador da Alta Escola Aberta de Utah. El foi ex-profesor adxunto de Tecnoloxía Instrucional e Director do Centro de Aprendizaxe aberta e sostible en Utah State University."

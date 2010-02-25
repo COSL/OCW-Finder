@@ -21,12 +21,20 @@ fi:
     thank_you_contact: "Kiitos viestistäsi. Tiimimme jäsen vastaa sinulle pian."
   ocwfinder: 
     about: Noin
+    about_background: "OCW Finder kehitettiin <a href=\"http://cosl.usu.edu\">Center for Open kestävän oppimisen</a> klo Utah State University. Kehitys oli osittain rahoittama <a href=\"http://www.mellon.org/\">Andrew W Mellon-säätiö.</a>"
+    about_description: "OCW Finder auttaa ihmisiä löytämään ilmainen online-kursseja kutsutaan OpenCourseWares (OCWs). Korkeakoulujen ja muiden OCW tarjoajat voivat rekisteröidä kurssien OCW Finder auttaa ihmisiä löytämään ne."
+    about_nsdl: "Jatkuva kehittäminen rahoittaa <a href=\"http://nsdl.org\">National Science digitaalinen kirjasto</a> on yhdistää OCW Finder kanssa <a href=\"http://oerrecommender.org\">OER Recommender</a> ja lisätä sosiaalisen verkostoitumisen ominaisuuksia sitä. Lisätietoja työn vierailemalla <a href=\"http://www.folksemantic.org\">Folksemantic</a> verkkosivuilla."
+    about_ocwfinder: "Tietoja OCW Finder"
     add_your_ocw: "Lisää OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Tai Selaa Kurssit tunnisteen"
+    developers: Kehittäjiä
     explore: "Hae Web"
+    joel_bio: "on entrepenuer ja ohjelmoija rakkautta matematiikan ja luonnontieteiden. Joel on jatkuvasti juonii siitä, miten suunnitella ja hyödyntää ohjelmistojen järjestelmien ja online-sisällön kannustaa nuoria osallistumaan tieteen, teknologian, tekniikan ja matematiikan."
+    justin_bio: "on ohjelmisto konsultti ja yrittäjä, jonka intohimona ovat Ruby. Hän on kehittynyt C + + ja. Net apina otetaan Python-ohjelmoija ja lopulta löytyi Ruby. Niissä harvoissa hetkinä, kun hän ei ole kirjoittamassa koodia, puhutaan koodin tai mitata hänen koodi tuottavuuden kirosanoja tunnissa, löydät hänet Pyörän vuorilla tai teiden ympärillä Cache Valley. Justin löytyy pontificating klo <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "O kursseja löytynyt <b>{{query}}.</b>"
     search_courses: "Etsi kursseja"
-    show_tagged_resources: "Näytä Oers"
+    show_tagged_resources: "Näytä kaikki Oers"
     sign_up: "Rekisteröidy Folksemantic beta!"
     use_tag_cloud: "Selaa käyttäminen Tag Clouds"
+    wiley_bio: "on apulaisprofessori Ohjeet psykologian ja teknologian Brigham Young University, Chief avoimuus Officer Flat World Osaaminen ja perustaja Open High School of Utah. Hän oli aiemmin apulaisprofessori Ohjeet teknologia ja johtaja keskuksen avoimet ja kestävät Oppiminen Utah State University."

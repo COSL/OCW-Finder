@@ -21,12 +21,20 @@ iw:
     thank_you_contact: "תודה על ההודעה שלך. חבר בצוות שלנו יגיב בהקדם."
   ocwfinder: 
     about: על
+    about_background: "OCW Finder פותחה על <a href=\"http://cosl.usu.edu\">המרכז פתח קיימא הלמידה</a> בבית יוטה סטייט. הפיתוח מומן בחלקו על ידי <a href=\"http://www.mellon.org/\">אנדרו מלון W הקרן.</a>"
+    about_description: "OCW Finder מסייע לאנשים למצוא קורסים מקוונים ללא תשלום קרא OpenCourseWares (OCWs). אוניברסיטאות OCW ספקים אחרים יכולים להירשם לקורסים שלהם עם OCW Finder לעזור לאנשים למצוא אותם."
+    about_nsdl: "פיתוח מתמשך במימון <a href=\"http://nsdl.org\">הלאומית למדע הספרייה הדיגיטלית</a> היא שילוב OCW פיינדר עם <a href=\"http://oerrecommender.org\">OER המלצה</a> ולהוסיף הרשתות החברתיות תכונות זה. למידע נוסף על עבודה זו על ידי ביקור באתר <a href=\"http://www.folksemantic.org\">Folksemantic.</a>"
+    about_ocwfinder: "אודות OCW Finder"
     add_your_ocw: "הוסף OCW שלך"
     browse_by_tags: "Browse by Tags"
     browse_courses: "עיון או קורסים לפי תגית"
+    developers: מפתחים
     explore: "חפש באינטרנט"
+    joel_bio: "הוא entrepenuer ו מתכנת באהבה עבור המתמטיקה והמדעים. יואל הרף זומם על אופן עיצוב למנף מערכות תוכנה ותוכן מקוון כדי לעודד בני נוער לעסוק במדע, טכנולוגיה, הנדסה ומתמטיקה."
+    justin_bio: "הוא יועץ תוכנה היזם עם תשוקה עבור רובי. הוא התפתח C + + ו. נטו קוף לתוך מתכנת Python ולבסוף מצא רובי. ברגעים נדירים שבהם הוא לא כתיבת קוד, מדבר על קוד או קוד למדידת היעילות שלו גסות לשעה, אתה יכול למצוא אותו על אופניו בהרים או על הכבישים המקיפים עמק מטמון. ג &#39;סטין ניתן למצוא ב pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
     no_courses_found: "אין קורסים נמצאו <b>{{query}}.</b>"
     search_courses: "חיפוש קורסים"
-    show_tagged_resources: "הצג OERs"
+    show_tagged_resources: "הצג את כל OERs"
     sign_up: "הירשם הביתא Folksemantic!"
     use_tag_cloud: "עיון שימוש עננים תג"
+    wiley_bio: "הוא פרופסור לפסיכולוגיה של ההוראה וטכנולוגיה ב אוניברסיטת בריגהם יאנג, פתיחות הראשי של השוטר שטוח העולם ידע, ומייסד פתח את בית הספר התיכון של יוטה. בעבר היה פרופסור מרחיב אופקים טכנולוגיה מנהלת המרכז פתוח בר קיימא הלמידה בבית יוטה סטייט."
