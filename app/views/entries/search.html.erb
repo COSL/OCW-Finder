@@ -1,11 +1,9 @@
 <div>
   <%= render(:partial => 'entries/result_status') %>
   <%= render(:partial => 'entries/results') %>
-  <% if !@paginated_results.blank? -%>
-    <div class="results-nav">
-      <%= will_paginate(@paginated_results, :next_label => '<b>' + t('muck.services.next_label') + ' &raquo;</b>', :previous_label => '<b>&laquo; ' + t('muck.services.previous_label') + '</b>') %>
-    </div>
-  <% end -%>
+  <div class="results-nav">
+    <%= will_paginate(@paginated_results, :next_label => '<b>' + t('muck.services.next_label') + ' &raquo;</b>', :previous_label => '<b>&laquo; ' + t('muck.services.previous_label') + '</b>') %>
+  </div>
 </div>
 <script type="text/javascript">
 jQuery('.pagination a').click(function(){ jQuery('#courses').load(this.href); jQuery('html, body').animate({scrollTop: jQuery("#courses").offset().top}, 100); return false;});
