@@ -20,9 +20,13 @@ ca:
     send: Enviar
     thank_you_contact: "Gràcies pel seu missatge. Un membre del nostre equip respondrà en breu."
   ocwfinder: 
+    about: Sobre
+    add_your_ocw: "Afegir la OCW"
     browse_by_tags: "Cerca per etiquetes"
     browse_courses: "O navegar per cursos Tag"
     explore: "Cerca al Web"
     no_courses_found: "No hi ha cursos s&#39;han trobat <b>{{query}}.</b>"
+    search_courses: "Cerca de cursos"
     show_tagged_resources: "Mostra OER"
+    sign_up: "Apunta&#39;t a la beta Folksemantic!"
     use_tag_cloud: "Navegar usant Núvols d&#39;etiquetes"

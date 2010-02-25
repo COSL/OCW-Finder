@@ -20,9 +20,13 @@ ar:
     send: يرسل
     thank_you_contact: "شكرا على رسالتك. وقال عضو في فريق عملنا سوف نرد عليك قريبا."
   ocwfinder: 
+    about: حول
+    add_your_ocw: "إضافة أسفر OCW"
     browse_by_tags: "استعرض بالسمات"
     browse_courses: "أو استعراض المواد بواسطة الوسم"
     explore: "البحث في الويب"
     no_courses_found: "تم العثور على أي دورات <b>ل{{query}}.</b>"
+    search_courses: "دورات البحث"
     show_tagged_resources: "وتظهر OERs"
+    sign_up: "تسجيل للحصول على بيتا Folksemantic!"
     use_tag_cloud: "تصفح باستخدام بطاقة السحب"

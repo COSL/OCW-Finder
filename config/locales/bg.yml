@@ -20,9 +20,13 @@ bg:
     send: Изпращам
     thank_you_contact: "Благодаря Ви за Вашето съобщение. Член на нашия екип ще отговори на Вас."
   ocwfinder: 
+    about: За
+    add_your_ocw: "Добавете Вашата OCW"
     browse_by_tags: "Разглеждане По Тагове"
     browse_courses: "Или Преглед Курсове по тагове"
     explore: "Търсене в Мрежата"
     no_courses_found: "Не са открити курсове за <b>{{query}}.</b>"
+    search_courses: "Търсене на курсове"
     show_tagged_resources: "Покажи OERs"
+    sign_up: "Абонирайте се за Folksemantic бета!"
     use_tag_cloud: "Преглед Използването Етикет облаците"

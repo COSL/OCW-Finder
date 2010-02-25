@@ -20,9 +20,13 @@ hu:
     send: Elküld
     thank_you_contact: "Köszönjük az üzenetet. A csapatunk tagja lesz hamarosan válaszolunk Önnek."
   ocwfinder: 
+    about: Körülbelül
+    add_your_ocw: "Add Your OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Vagy a Tallózás tanfolyamok Tag"
     explore: "Keresés a weben"
     no_courses_found: "Nincs tanfolyamokat talált <b>{{query}}.</b>"
+    search_courses: "Kurzusok keresése"
     show_tagged_resources: "Show OERs"
+    sign_up: "Iratkozzon fel a Folksemantic béta!"
     use_tag_cloud: "Tallózás használata Tag Clouds"

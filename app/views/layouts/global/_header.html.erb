@@ -1,10 +1,10 @@
 <div id="header" class="block span-24 column">
   <div id="top-links">
-    <a href="/about">About</a> :: <a href="http://www.folksemantic.com/feeds/new_oai_rss">Add Your OCW</a>
+    <%= link_to t('ocwfinder.about'), '/about' %> :: <%= link_to t('ocwfinder.add_your_ocw'), "#{@main_domain}/feeds/new_oai_rss" %>
   </div>
   <div class="clear"></div>
   <div id="signup-links" class="center">
-    <a href="http://www.folksemantic.com/signup">Sign up for the Folksemantic beta!</a>
+    <%= link_to t('ocwfinder.sign_up'), "#{@main_domain}/signup" %>
   </div>
 </div>
 <div id="logo" class="block span-24 column center">

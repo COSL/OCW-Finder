@@ -20,9 +20,13 @@ tl:
     send: Ipadala
     thank_you_contact: "Salamat sa iyong mensahe. Ang isang miyembro ng aming pangkat ay tumugon sa iyo sa ilang sandali."
   ocwfinder: 
+    about: "Tungkol sa"
+    add_your_ocw: "Idagdag ang iyong OCW"
     browse_by_tags: "Browse By Tags"
     browse_courses: "O Browse By sangay Tag"
     explore: "Hanapin sa Web"
     no_courses_found: "Walang mga kurso ay natagpuan para sa <b>{{query}}.</b>"
+    search_courses: "paghahanap sa mga kurso"
     show_tagged_resources: "Ipakita ang mga OERs"
+    sign_up: "Mag-sign up para sa Folksemantic beta!"
     use_tag_cloud: "Browse Paggamit ng Tag Ulap"

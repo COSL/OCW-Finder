@@ -20,9 +20,13 @@ zh-CN:
     send: 发送
     thank_you_contact: 感谢您的来信。我们的小组成员将很快回复您。
   ocwfinder: 
+    about: 大约
+    add_your_ocw: 添加您的开放式课程
     browse_by_tags: 浏览标签
     browse_courses: 或浏览课程标签
     explore: 搜索Web
     no_courses_found: "没有课程找到<b>{{query}}。</b>"
+    search_courses: 搜索课程
     show_tagged_resources: 显示Oers继续
+    sign_up: 注册为Folksemantic测试！
     use_tag_cloud: 浏览使用标签云

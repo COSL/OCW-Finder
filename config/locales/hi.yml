@@ -20,9 +20,13 @@ hi:
     send: भेजना
     thank_you_contact: "आप अपने संदेश के लिए धन्यवाद. हमारी टीम के एक सदस्य आपको शीघ्र ही जवाब होगा."
   ocwfinder: 
+    about: "के बारे में"
+    add_your_ocw: "अपने OCW जोड़ें"
     browse_by_tags: "टैग से ब्राउज़ करें"
     browse_courses: "या ब्राउज़ करें टैग तक पाठ्यक्रम"
     explore: "वेब पर खोजें"
     no_courses_found: "कोई पाठ्यक्रम <b>{{query}}</b> के लिए पाए गए."
+    search_courses: "खोज पाठ्यक्रम"
     show_tagged_resources: "दिखाएँ OERs"
+    sign_up: "Folksemantic बीटा के लिए साइन अप करें!"
     use_tag_cloud: "ब्राउज़ करें का उपयोग टैग बादल"

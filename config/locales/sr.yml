@@ -20,9 +20,13 @@ sr:
     send: Послати
     thank_you_contact: "Хвала Вам на поруци. Члан нашег тима це вам убрзо одговорити."
   ocwfinder: 
+    about: О
+    add_your_ocw: "Додајте Ваш ОЦУ"
     browse_by_tags: "Броусе бы Тагс"
     browse_courses: "Или Прегледај Курсеве бы Таг"
     explore: "Претражи Уеб"
     no_courses_found: "Нема курсеви су пронађена за <b>{{query}}.</b>"
+    search_courses: "тражи курсеви"
     show_tagged_resources: "Прикажи ОЕРс"
+    sign_up: "Пријавите се за Фолксемантиц Бета!"
     use_tag_cloud: "Прегледај Коришћење ознака Облаци"

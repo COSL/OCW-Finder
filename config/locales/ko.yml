@@ -20,9 +20,13 @@ ko:
     send: 보내기
     thank_you_contact: "귀하의 메시지를 보내 주셔서 감사합니다. 저희 팀의 일원 당신에게 곧 답변해 드리겠습니다."
   ocwfinder: 
+    about: 정보
+    add_your_ocw: "귀하의 OCW에 담기"
     browse_by_tags: "태그 검색"
     browse_courses: "아니면 찾아보기 코스 태그에 의해"
     explore: "웹 검색"
     no_courses_found: "아니 과정 <b>{{query}}</b> 찾을 수없습니다."
+    search_courses: "검색 과정"
     show_tagged_resources: OERs보기
+    sign_up: "Folksemantic 베타에 가입하십시오!"
     use_tag_cloud: "찾아보기를 사용하여 태그 구름"

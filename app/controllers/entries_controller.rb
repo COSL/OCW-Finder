@@ -1,13 +1,7 @@
 class EntriesController < Muck::EntriesController
-  before_filter :setup_grain_size
-  
+
   caches_page [:index, :list_tags, :browse_courses]
   
-  def setup_grain_size
-    @grain_size = 'course'
-    @main_domain = 'http://www.folksemantic.com'
-  end
-
   def index
     @tag_cloud = TagCloud.language_tags(Language.locale_id, @grain_size) unless fragment_exist?({:controller => 'entries', :action => 'index', :language => Language.locale_id})
     respond_to do |format|

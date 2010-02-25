@@ -20,9 +20,13 @@ fa:
     send: ارسال
     thank_you_contact: "با تشکر از ارسال پیام شما. عضو تیم ما برای شما در مدت کوتاهی پاسخ دهند."
   ocwfinder: 
+    about: درباره
+    add_your_ocw: "اضافه کردن OCW شما"
     browse_by_tags: "فهرست اسامی با برچسب ها"
     browse_courses: "و یا فهرست اسامی دورهها توسط برچسب"
     explore: "جستجو در وب"
     no_courses_found: "دوره هایی برای هیچ <b>{{query}}یافت</b> نشد."
+    search_courses: "جستجو در درسها"
     show_tagged_resources: "نمایش OERs"
+    sign_up: "ثبت نام برای Folksemantic بتا!"
     use_tag_cloud: "فهرست اسامی ابرها با استفاده از برچسب"

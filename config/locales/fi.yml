@@ -20,9 +20,13 @@ fi:
     send: Lähettää
     thank_you_contact: "Kiitos viestistäsi. Tiimimme jäsen vastaa sinulle pian."
   ocwfinder: 
+    about: Noin
+    add_your_ocw: "Lisää OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Tai Selaa Kurssit tunnisteen"
     explore: "Hae Web"
     no_courses_found: "O kursseja löytynyt <b>{{query}}.</b>"
+    search_courses: "Etsi kursseja"
     show_tagged_resources: "Näytä Oers"
+    sign_up: "Rekisteröidy Folksemantic beta!"
     use_tag_cloud: "Selaa käyttäminen Tag Clouds"

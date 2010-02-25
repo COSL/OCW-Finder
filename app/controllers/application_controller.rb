@@ -10,8 +10,13 @@ class ApplicationController < ActionController::Base
   before_filter :set_locale
   before_filter :setup_paging
   before_filter :set_will_paginate_string
-  
+  before_filter :setup_grain_size
   protected
+  
+    def setup_grain_size
+      @grain_size = 'course'
+      @main_domain = "http://#{I18n.locale.to_s == 'en' ? 'www' : I18n.locale}.folksemantic.com"
+    end
   
     def set_locale
       discover_locale

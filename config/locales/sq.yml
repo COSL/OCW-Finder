@@ -4,7 +4,7 @@ sq:
     contact_response_subject: "Thanks for hetim tuaj nga {{application_name}}!"
     contact_us: Kontakt
     email: "Your email:"
-    email_help: "Ju lutem na japin me email tuaj në mënyrë që ne mund t&#39;ju kontaktojmë nëse është e nevojshme."
+    email_help: "Ju lutemi na japin me email tuaj në mënyrë që ne mund t&#39;ju kontaktojmë nëse është e nevojshme."
     name: "Emri juaj:"
     name_help: "Ju lutemi na japin me emrin tuaj."
     phone: "Numri i telefonit:"
@@ -20,9 +20,13 @@ sq:
     send: Dërgoj
     thank_you_contact: "Faleminderit për mesazhin tuaj. Një anëtar i ekipit tonë ju do të përgjigjet së shpejti."
   ocwfinder: 
+    about: Rreth
+    add_your_ocw: "Add OCW juaj"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Ose Browse Kurse Nga Tag"
     explore: "Kërko Web"
     no_courses_found: "Nuk u gjet kurse për <b>{{query}}.</b>"
+    search_courses: "kurse kërko"
     show_tagged_resources: "Show OERs"
+    sign_up: "Sign up for beta Folksemantic!"
     use_tag_cloud: "Browse Duke përdorur Tag Clouds"

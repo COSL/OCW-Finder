@@ -20,9 +20,13 @@ sk:
     send: Poslať
     thank_you_contact: "Ďakujeme Vám za Vašu správu. Člen nášho tímu bude reagovať na vás v najbližšej dobe."
   ocwfinder: 
+    about: O
+    add_your_ocw: "Pridajte svoj OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Kurzy na Prehľadávať podľa tagov"
     explore: "Hľadať na webe"
     no_courses_found: "Neboli nájdené žiadne kurzy pre <b>{{query}}.</b>"
+    search_courses: "Hľadanie kurzov"
     show_tagged_resources: "Zobraziť OERs"
+    sign_up: "Prihlásiť sa na Folksemantic beta!"
     use_tag_cloud: "Ľudia Použitie Tag Clouds"

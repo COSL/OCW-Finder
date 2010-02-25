@@ -1,28 +1,32 @@
 --- 
 th: 
   contact: 
-    contact_response_subject: "ขอขอบคุณสำหรับคำถามของคุณจาก {{application_name}}!"
-    contact_us: ติดต่อเรา
-    email: "อีเมล์ของคุณ:"
-    email_help: กรุณาระบุอีเมล์ของคุณเพื่อให้เราสามารถติดต่อคุณถ้าจำเป็น.
-    name: ชื่อของคุณ
-    name_help: โปรดระบุชื่อของคุณ.
-    phone: "หมายเลขโทรศัพท์ของคุณ:"
-    phone_help: หมายเลขโทรศัพท์ของคุณมีตัวเลือกแต่จะช่วยให้เราติดต่อคุณถ้าจำเป็น.
-    question: "ข้อความ / คำถามของคุณ:"
-    question_help: กรุณาใส่ความคิดเห็นที่คุณต้องการให้เราได้ยิน.
+    contact_response_subject: "ขอ ขอบคุณ สำหรับ คำถาม ของ คุณ จาก {{application_name}}!"
+    contact_us: "ติดต่อ เรา"
+    email: "อีเมล์ ของ คุณ:"
+    email_help: "กรุณา ระบุ อีเมล์ ของ คุณ เพื่อ ให้ เรา สามารถ ติดต่อ คุณ ถ้า จำเป็น."
+    name: "ชื่อ ของ คุณ"
+    name_help: "โปรด ระบุ ชื่อ ของ คุณ."
+    phone: "หมายเลข โทรศัพท์ ของ คุณ:"
+    phone_help: "หมายเลข โทรศัพท์ ของ คุณ มี ตัว เลือก แต่ จะ ช่วย ให้ เรา ติดต่อ คุณ ถ้า จำเป็น."
+    question: "ข้อความ / คำถาม ของ คุณ:"
+    question_help: "กรุณา ใส่ ความ คิดเห็น ที่ คุณ ต้องการ ให้ เรา ได้ยิน."
     subject: "Subject:"
-    subject_help: คำง่ายๆที่ระบุลักษณะการตอบรับของคุณ.
+    subject_help: "คำ ง่ายๆ ที่ ระบุ ลักษณะ การ ตอบ รับ ของ คุณ."
   folksemantic: 
-    credits: "พัฒนาโดย <a href=\"http://www.tatemae.com\">Tatemae</a> สำหรับ <a href=\"http://cosl.usu.edu\">ศูนย์เปิดและการเรียนรู้อย่างยั่งยืน</a> กับเงินจาก <a href=\"http://nsf.gov/\">National Science Foundation</a> และ <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
+    credits: "พัฒนา โดย <a href=\"http://www.tatemae.com\">Tatemae</a> สำหรับ <a href=\"http://cosl.usu.edu\">ศูนย์ เปิด และ การ เรียน รู้ อย่าง ยั่งยืน</a> กับ เงิน จาก <a href=\"http://nsf.gov/\">National Science Foundation</a> และ <a href=\"http://www.mellon.org/\">Andrew W Mellon Foundation</a>"
   general: 
-    delete_file: ไฟล์ลบ
+    delete_file: "ไฟล์ ลบ"
     send: ส่ง
-    thank_you_contact: "ขอขอบคุณสำหรับข้อความของคุณ. สมาชิกของทีมงานเราจะตอบกับคุณในไม่ช้า."
+    thank_you_contact: "ขอ ขอบคุณ สำหรับ ข้อความ ของ คุณ. สมาชิก ของ ทีม งาน เรา จะ ตอบ กับ คุณ ใน ไม่ ช้า."
   ocwfinder: 
-    browse_by_tags: เบราส์ด้วยแท็ก
-    browse_courses: หรือรายวิชาจากแท็ก
-    explore: ค้นหาเว็บ
-    no_courses_found: "หลักสูตรไม่พบ <b>{{query}}.</b>"
+    about: "เกี่ยว กับ"
+    add_your_ocw: "เพิ่ม คุณ OCW"
+    browse_by_tags: "เบ รา ส์ ด้วย แท็ ก"
+    browse_courses: "หรือ รายวิชา จาก แท็ ก"
+    explore: "ค้นหา เว็บ"
+    no_courses_found: "หลักสูตร ไม่ พบ <b>{{query}}.</b>"
+    search_courses: "ค้นหา หลักสูตร"
     show_tagged_resources: "OERs แสดง"
-    use_tag_cloud: ดูเมฆใช้แท็ก
+    sign_up: "ลง ทะเบียน beta Folksemantic!"
+    use_tag_cloud: "ดู เมฆ ใช้ แท็ ก"

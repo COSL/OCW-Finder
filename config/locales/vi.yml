@@ -20,9 +20,13 @@ vi:
     send: Gửi
     thank_you_contact: "Cám ơn các tin nhắn của bạn. Một thành viên của nhóm chúng tôi sẽ trả lời bạn ngay."
   ocwfinder: 
+    about: Về
+    add_your_ocw: "Thêm OCW của bạn"
     browse_by_tags: "Duyệt theo Tags"
     browse_courses: "Hoặc Duyệt Các khóa học theo Tag"
     explore: "Tìm kiếm trên Web"
     no_courses_found: "Không có các khóa học đã được tìm thấy cho <b>{{query}}.</b>"
+    search_courses: "tìm kiếm các khóa học"
     show_tagged_resources: "Show OERs"
+    sign_up: "Đăng ký cho các phiên bản beta Folksemantic!"
     use_tag_cloud: "Duyệt Sử dụng Từ liên quan"

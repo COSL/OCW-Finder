@@ -20,9 +20,13 @@ lt:
     send: Siųsti
     thank_you_contact: "Dėkojame už pranešimą. Mūsų komandos narys turės atsakyti Jumis."
   ocwfinder: 
+    about: Apie
+    add_your_ocw: "Pridėti OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Arba Žmonės Kursai by Tag"
     explore: "Paieška internete"
     no_courses_found: "Nr kursai nerasta <b>{{query}}.</b>"
+    search_courses: "Ieškoti kursų"
     show_tagged_resources: "Rodyti OERs"
+    sign_up: "Užsiregistruoti Folksemantic beta versija!"
     use_tag_cloud: "Žmonės Naudojant Tag Clouds"

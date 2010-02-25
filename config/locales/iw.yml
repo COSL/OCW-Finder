@@ -20,9 +20,13 @@ iw:
     send: לשלוח
     thank_you_contact: "תודה על ההודעה שלך. חבר בצוות שלנו יגיב בהקדם."
   ocwfinder: 
+    about: על
+    add_your_ocw: "הוסף OCW שלך"
     browse_by_tags: "Browse by Tags"
     browse_courses: "עיון או קורסים לפי תגית"
     explore: "חפש באינטרנט"
     no_courses_found: "אין קורסים נמצאו <b>{{query}}.</b>"
+    search_courses: "חיפוש קורסים"
     show_tagged_resources: "הצג OERs"
+    sign_up: "הירשם הביתא Folksemantic!"
     use_tag_cloud: "עיון שימוש עננים תג"

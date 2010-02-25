@@ -20,9 +20,13 @@ id:
     send: Mengirim
     thank_you_contact: "Terima kasih untuk pesan Anda. Seorang anggota tim kami akan merespon anda segera."
   ocwfinder: 
+    about: Tentang
+    add_your_ocw: "Add Your OCW"
     browse_by_tags: "Browse By Tags"
     browse_courses: "Atau Browse Courses Oleh Tag"
     explore: "Cari Web"
     no_courses_found: "Tidak ada kursus yang ditemukan untuk <b>{{query}}.</b>"
+    search_courses: "cari kursus"
     show_tagged_resources: "Tampilkan OERs"
+    sign_up: "Mendaftar untuk Folksemantic beta!"
     use_tag_cloud: "People Menggunakan Tag Clouds"

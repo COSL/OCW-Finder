@@ -20,9 +20,13 @@ fr:
     send: Envoyer
     thank_you_contact: "Nous vous remercions pour votre message. Un membre de notre équipe vous répondra sous peu."
   ocwfinder: 
+    about: "À propos de"
+    add_your_ocw: "Ajoutez votre OCW"
     browse_by_tags: "Parcourir par tags"
     browse_courses: "Parcourir les cours ou By Tag"
     explore: "Rechercher sur le Web"
     no_courses_found: "Aucun cours n&#39;a été trouvé pour <b>{{query}}.</b>"
+    search_courses: "Rechercher des cours"
     show_tagged_resources: "Afficher REL"
+    sign_up: "S&#39;inscrire à la bêta Folksemantic!"
     use_tag_cloud: "Browse using Tag Clouds"

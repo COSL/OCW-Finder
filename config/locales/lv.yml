@@ -20,9 +20,13 @@ lv:
     send: Sūtīt
     thank_you_contact: "Paldies par jūsu ziņojumu. Mūsu komandas loceklis atbildēs Jums tuvākajā laikā."
   ocwfinder: 
+    about: Par
+    add_your_ocw: "Pievienot savu OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Or Browse Courses by tag"
     explore: "Search Web"
     no_courses_found: "Nē kursi tika atrasti <b>{{query}}.</b>"
+    search_courses: "Meklēt kursus"
     show_tagged_resources: "Show OERs"
+    sign_up: "Pierakstīties Folksemantic beta!"
     use_tag_cloud: "Browse Izmantojot Tagu Mākoņi"

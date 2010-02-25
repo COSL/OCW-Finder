@@ -20,9 +20,13 @@ el:
     send: Αποστέλω
     thank_you_contact: "Σας ευχαριστούμε για το μήνυμά σας. Ένα μέλος της ομάδας μας θα σας απαντήσουμε πολύ σύντομα."
   ocwfinder: 
+    about: Σχετικά
+    add_your_ocw: "Προσθήκη OCW σας"
     browse_by_tags: "Αναζήτηση με Tags"
     browse_courses: "Ή Πλοήγηση στα μαθήματα By Tag"
     explore: "Αναζήτηση στο Web"
     no_courses_found: "Δεν βρέθηκαν μαθήματα για <b>{{query}}.</b>"
+    search_courses: "Αναζήτηση μαθημάτων"
     show_tagged_resources: "Δείτε OERs"
+    sign_up: "Εγγραφή για την Folksemantic beta!"
     use_tag_cloud: "Browse Χρησιμοποιώντας Clouds Tag"

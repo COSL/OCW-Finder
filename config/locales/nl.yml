@@ -20,9 +20,13 @@ nl:
     send: Sturen
     thank_you_contact: "Dank u voor uw bericht. Een lid van ons team zal reageren binnenkort aan jou."
   ocwfinder: 
+    about: Over
+    add_your_ocw: "Voeg uw OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Of Bekijk cursussen By Tag"
     explore: "Zoeken op het web"
     no_courses_found: "Geen cursussen gevonden voor <b>{{query}}.</b>"
+    search_courses: "Zoek cursussen"
     show_tagged_resources: "Toon Oers"
+    sign_up: "Aanmelden voor de Folksemantic beta!"
     use_tag_cloud: "Browse gebruiken Tag Clouds"

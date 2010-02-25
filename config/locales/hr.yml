@@ -20,9 +20,13 @@ hr:
     send: Slati
     thank_you_contact: "Hvala za poruku. Član našeg tima će odgovoriti na vas uskoro."
   ocwfinder: 
+    about: O
+    add_your_ocw: "Dodajte Vaš OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Ili Pregledaj tekstove po oznakama"
     explore: "Search the Web"
     no_courses_found: "Nema tečajevi pronađeni su za <b>{{query}}.</b>"
+    search_courses: "Pretraži kolegije"
     show_tagged_resources: "Pokaži OERs"
+    sign_up: "Prijavite se za Folksemantic beta!"
     use_tag_cloud: "Browse Korištenje Tag Oblaci"

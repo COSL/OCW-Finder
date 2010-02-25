@@ -20,9 +20,13 @@ mt:
     send: Ibgħat
     thank_you_contact: "Grazzi għall-messaġġ tiegħek. A membru tat-tim tagħna se tirrispondi lilek dalwaqt."
   ocwfinder: 
+    about: Dwar
+    add_your_ocw: "Żid OCW tiegħek"
     browse_by_tags: "Browse By Tags"
     browse_courses: "Jew Browse Korsijiet Permezz Tag"
     explore: "Search the Web"
     no_courses_found: "Nru korsijiet kienu misjuba għal <b>{{query}}.</b>"
+    search_courses: "Tfittxija korsijiet"
     show_tagged_resources: "Show OERs"
+    sign_up: "Sign up għall-beta Folksemantic!"
     use_tag_cloud: "Browse użu sħab Tag"

@@ -20,9 +20,13 @@ ro:
     send: Trimite
     thank_you_contact: "Vă mulţumim pentru mesaj. Un membru al echipei noastre va va raspunde in scurt timp."
   ocwfinder: 
+    about: Despre
+    add_your_ocw: "Adauga OCW dvs."
     browse_by_tags: "Browse by Tags"
     browse_courses: "Sau Vezi Cursuri dupa tag-uri"
     explore: "Căutaţi pe Web"
     no_courses_found: "Nu au fost gasite cursuri pentru <b>{{query}}.</b>"
+    search_courses: "cursuri de căutare"
     show_tagged_resources: "Show OERs"
+    sign_up: "Înscrieţi-vă pentru versiunea beta Folksemantic!"
     use_tag_cloud: "Vezi Utilizarea Tag Clouds"

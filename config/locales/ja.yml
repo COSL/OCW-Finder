@@ -20,9 +20,13 @@ ja:
     send: 送る
     thank_you_contact: あなたのメッセージをいただきありがとうございます。我々のチームのメンバーがすぐに対応いたします。
   ocwfinder: 
+    about: 〜について
+    add_your_ocw: あなたのOCW追加
     browse_by_tags: タグによる閲覧
     browse_courses: またはBrowseコースタグで
     explore: ウェブを検索
     no_courses_found: "コースはありません<b>。{{query}}</b>は見つかりませんでした。"
+    search_courses: 検索コース
     show_tagged_resources: 地図を表示OERs
+    sign_up: Folksemanticベータ版の登録！
     use_tag_cloud: ブラウズを使用してタグ雲

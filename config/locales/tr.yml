@@ -20,9 +20,13 @@ tr:
     send: Göndermek
     thank_you_contact: "İletiniz için teşekkür ederiz. Ekibimizin bir üyesi sizi kısa sürede yanıt vereceğiz."
   ocwfinder: 
+    about: "Ile ilgili"
+    add_your_ocw: "Your OCW ekle"
     browse_by_tags: "İnsanlar Tags"
     browse_courses: "Veya Derslere gözat Tag"
     explore: "Arama Web"
     no_courses_found: "No kursları <b>{{query}}</b> bulunamadı."
+    search_courses: "arama kursları"
     show_tagged_resources: "Show OERs"
+    sign_up: "Folksemantic beta için kayıt olun!"
     use_tag_cloud: "İnsanlar kullanma Tag Clouds"

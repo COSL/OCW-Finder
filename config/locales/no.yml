@@ -21,9 +21,13 @@
     send: Sende
     thank_you_contact: "Takk for meldingen. Et medlem av vårt team vil svare deg innen kort tid."
   ocwfinder: 
+    about: Om
+    add_your_ocw: "Legg til OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Eller gjennom kurs by Tag"
     explore: "Søk på nettet"
     no_courses_found: "Ingen emner ble funnet for <b>{{query}}.</b>"
+    search_courses: "search kurs"
     show_tagged_resources: "Show OERs"
+    sign_up: "Meld deg på Folksemantic beta!"
     use_tag_cloud: "Bla Bruke Tag Clouds"

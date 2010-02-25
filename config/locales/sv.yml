@@ -20,9 +20,13 @@ sv:
     send: Skicka
     thank_you_contact: "Tack för ditt meddelande. En medlem i vårt team kommer att svara dig inom kort."
   ocwfinder: 
+    about: Om
+    add_your_ocw: "Add Your OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Eller Bläddra kurser efter tagg"
     explore: "Sök på webben"
     no_courses_found: "Inga kurser hittades för <b>{{query}}.</b>"
+    search_courses: "Sök kurser"
     show_tagged_resources: "Visa Oers"
+    sign_up: "Registrera dig för Folksemantic beta!"
     use_tag_cloud: "Bläddra Använda Tag Clouds"

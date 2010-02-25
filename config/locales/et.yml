@@ -20,9 +20,13 @@ et:
     send: Saatma
     thank_you_contact: "Tänan Teid kirja eest. Liige meeskond vastab teile peagi."
   ocwfinder: 
+    about: Kohta
+    add_your_ocw: "Lisa oma OCW"
     browse_by_tags: "Browse by Tags"
     browse_courses: "Või Kursuste sirvimine by Tag"
     explore: "Search the Web"
     no_courses_found: "Nr kursuseid ei leitud <b>{{query}}.</b>"
+    search_courses: "Otsi kursusi"
     show_tagged_resources: "Näita OERs"
+    sign_up: "Registreeru Folksemantic beeta!"
     use_tag_cloud: "Lehitse kasutamine Tag Clouds"
