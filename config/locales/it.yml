@@ -32,6 +32,7 @@ it:
     explore: "Cerca nel web"
     joel_bio: "è un entrepenuer e programmatore con un amore per la matematica e le scienze. Joel è continuamente tramando su come progettare e sfruttare i sistemi di software e contenuti on-line di incoraggiare i giovani a impegnarsi nel campo della scienza, tecnologia, ingegneria e matematica."
     justin_bio: "è un consulente di software e di imprenditore con la passione per Ruby. Egli si è evoluta da C + + e. Scimmia Net in un programmatore Python e Ruby finalmente trovato. Nei rari momenti, quando non è la scrittura di codice, parlando di codice o di misura la sua produttività di codice in linguaggio blasfemo per ora, è possibile trovarlo sulla sua bicicletta in montagna o sulle strade che circondano Cache Valley. Justin si possono trovare a pontificare <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Non ci sono corsi indicizzati in questa lingua. Visitare il <a href=\"{{folksemantic_link}}\">sito Folksemantic</a> per le risorse educative aperte in questa lingua."
     no_courses_found: "N. corsi sono stati trovati <b>{{query}}.</b>"
     search_courses: "Cerca corsi"
     show_tagged_resources: "Mostra tutti Oers"

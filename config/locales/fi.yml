@@ -32,6 +32,7 @@ fi:
     explore: "Hae Web"
     joel_bio: "on entrepenuer ja ohjelmoija rakkautta matematiikan ja luonnontieteiden. Joel on jatkuvasti juonii siitä, miten suunnitella ja hyödyntää ohjelmistojen järjestelmien ja online-sisällön kannustaa nuoria osallistumaan tieteen, teknologian, tekniikan ja matematiikan."
     justin_bio: "on ohjelmisto konsultti ja yrittäjä, jonka intohimona ovat Ruby. Hän on kehittynyt C + + ja. Net apina otetaan Python-ohjelmoija ja lopulta löytyi Ruby. Niissä harvoissa hetkinä, kun hän ei ole kirjoittamassa koodia, puhutaan koodin tai mitata hänen koodi tuottavuuden kirosanoja tunnissa, löydät hänet Pyörän vuorilla tai teiden ympärillä Cache Valley. Justin löytyy pontificating klo <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Ole kursseja indeksoitu tällä kielellä. Vieraile <a href=\"{{folksemantic_link}}\">Folksemantic sivustolla</a> avoimen opetuksen resursseja tällä kielellä."
     no_courses_found: "O kursseja löytynyt <b>{{query}}.</b>"
     search_courses: "Etsi kursseja"
     show_tagged_resources: "Näytä kaikki Oers"

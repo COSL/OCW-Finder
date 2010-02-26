@@ -32,6 +32,7 @@ tr:
     explore: "Arama Web"
     joel_bio: "bir entrepenuer ve programcı Matematik ve Fen aşk ile. Joel sürekli nasıl tasarım ve bilim uğraşmak için gençleri teşvik etmek için yazılım sistemleri ve çevrimiçi içerik kaldıraç hakkında planlar, teknoloji, mühendislik ve matematik."
     justin_bio: "Bir yazılım danışman ve girişimci Ruby için bir tutku ile. O C + + ve gelişti. Net maymun bir Python programcısı olarak ve son olarak Ruby bulundu. Ender anlarda, kodu bahsediyoruz kod yazmak değil o veya saatte küfür yılında kodu verimlilik ölçme, sen dağlarda bisiklete ya da yollar Önbellek Vadisi çevreleyen onu bulabilirsiniz. Justin <a href=\"http://www.justinball.com\">http://www.justinball.com</a> de pontificating bulunabilir."
+    no_courses: "Hiçbir ders bu dilde endekslidir. Açık öğretim kaynakları için bu dilde <a href=\"{{folksemantic_link}}\">Folksemantic web sitesini</a> ziyaret edin."
     no_courses_found: "No kursları <b>{{query}}</b> bulunamadı."
     search_courses: "arama kursları"
     show_tagged_resources: "Tüm OERs"

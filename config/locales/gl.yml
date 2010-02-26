@@ -32,6 +32,7 @@ gl:
     explore: "Buscar na web"
     joel_bio: "é unha entrepenuer e desenvolvedor cun amor pola Matemáticas e Ciencias. Joel é continuamente a planear sobre como crear e alavancar os sistemas de software e contido online para animar a mocidade a participar na ciencia, tecnoloxía, enxeñería e matemáticas."
     justin_bio: "é un consultor de software e empresario cunha paixón para Ruby. El evolucionou a partir do C + + e. Monkey líquido en un programador Python e finalmente atopei o Ruby. Nos raros momentos cando non está escribindo código falando sobre o código ou medir a productividade de código no profanity por hora, podes atopalo na súa bicicleta nas montañas ou nas estradas que rodean caché Valley. Justin pode atoparse en la Pontificia <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Non hai cursos indexadas neste idioma. Visita o <a href=\"{{folksemantic_link}}\">sitio web Folksemantic</a> de recursos de educación aberta nesta lingua."
     no_courses_found: "Ningún curso se atopou a <b>{{query}}.</b>"
     search_courses: "Buscar en cursos"
     show_tagged_resources: "Show All OERs"

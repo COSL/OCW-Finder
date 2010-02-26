@@ -32,6 +32,7 @@ fr:
     explore: "Rechercher sur le Web"
     joel_bio: "est un entrepenuer et programmeur avec un amour pour les mathématiques et la science. Joel est intrigante continuellement sur la façon de concevoir et de tirer parti des systèmes logiciels et des contenus en ligne pour encourager les jeunes à s&#39;engager dans la science, la technologie, l&#39;ingénierie et les mathématiques."
     justin_bio: "est un consultant en informatique et d&#39;entrepreneur avec une passion pour Ruby. Il a évolué à partir de C + + et. Singe net en un programmeur Python et Ruby enfin trouvé. Dans les rares moments où il n&#39;est pas l&#39;écriture de code, en parlant de code ou de mesure de la productivité de son code en langage blasphématoire à l&#39;heure, vous pouvez le trouver sur son vélo dans les montagnes ou sur les routes environnantes Cache Valley. Justin se trouve à pontifier <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Il n&#39;y a pas de cours indexés dans cette langue. Visitez le <a href=\"{{folksemantic_link}}\">site web Folksemantic</a> pour les ressources éducatives en libre accès dans cette langue."
     no_courses_found: "Aucun cours n&#39;a été trouvé pour <b>{{query}}.</b>"
     search_courses: "Rechercher des cours"
     show_tagged_resources: "Afficher tous les REL"

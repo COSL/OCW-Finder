@@ -32,6 +32,7 @@ sq:
     explore: "Kërko Web"
     joel_bio: "është një programues entrepenuer dhe me një dashuri për matematike dhe Shkencës. Joeli është vazhdimisht scheming se si të projektimit dhe levave sistemeve software dhe përmbajtjes online për të inkurajuar të rinjtë që të angazhohen në shkencë, teknologji, inxhinieri dhe matematikë."
     justin_bio: "është një konsulent software dhe sipërmarrës me një pasion për Ruby. Ai ka evoluar nga C + + dhe. Majmun neto në një programues python dhe më në fund gjeti Ruby. Në momente të rralla, kur ai nuk është i shkruar kodin, duke folur në lidhje me kodin apo matur produktivitetin e tij kodi në karakter fetar në orë, ju mund ta gjeni atë në biçikletë e tij në male ose në rrugët përreth Cache Valley. Justin mund të gjenden në pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Nuk ka kurse indeksuar në këtë gjuhë. Vizito <a href=\"{{folksemantic_link}}\">faqen e internetit Folksemantic</a> për burimet e arsimit të hapur në këtë gjuhë."
     no_courses_found: "Nuk u gjet kurse për <b>{{query}}.</b>"
     search_courses: "kurse kërko"
     show_tagged_resources: "Show All OERs"

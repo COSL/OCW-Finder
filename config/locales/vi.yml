@@ -32,6 +32,7 @@ vi:
     explore: "Tìm kiếm trên Web"
     joel_bio: "là một entrepenuer và lập trình với một tình yêu dành cho Toán và Khoa học. Joel liên tục quy hoạch về cách thiết kế và tận dụng các hệ thống phần mềm và nội dung trực tuyến để khuyến khích thanh niên tham gia trong khoa học, công nghệ, kỹ thuật, và toán học."
     justin_bio: "là một nhà tư vấn phần mềm và doanh nghiệp với một niềm đam mê cho Ruby. Ông đã phát triển từ C + + và khỉ Net. Thành một lập trình python và cuối cùng tìm thấy Ruby. Trong những khoảnh khắc hiếm khi ông không phải là viết mã, nói về mã hoặc đo năng suất mã thô tục của mình trong mỗi giờ, bạn có thể tìm thấy anh ta trên xe đạp của mình tại vùng núi hoặc trên những con đường xung quanh Cache Valley. Justin có thể tìm thấy tại pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Không có các khóa học lập chỉ mục trong ngôn ngữ này. Truy cập vào <a href=\"{{folksemantic_link}}\">trang web Folksemantic</a> cho nguồn mở trong giáo dục ngôn ngữ này."
     no_courses_found: "Không có các khóa học đã được tìm thấy cho <b>{{query}}.</b>"
     search_courses: "tìm kiếm các khóa học"
     show_tagged_resources: "Hiển thị tất cả OERs"

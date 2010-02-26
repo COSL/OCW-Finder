@@ -32,6 +32,7 @@ tl:
     explore: "Hanapin sa Web"
     joel_bio: "ay isang entrepenuer at programista sa isang pag-ibig para sa Math at Science. Joel ay patuloy na scheming tungkol sa kung paano disenyo at pakikinabangan ang mga sistema ng software at mga online na nilalaman upang himukin ang mga kabataan upang sumali sa science, technology, engineering, at matematika."
     justin_bio: "ay isang software na consultant at negosyante na may isang simbuyo ng damdamin para sa Ruby. Siya ay nagbago mula sa C + + at. Net unggoy sa isang programista sawa at sa wakas natagpuan Ruby. Sa mga bihirang moments kapag siya ay hindi pagsulat ng code, pakikipag-usap tungkol sa code o pagsukat sa kanyang code produktibo sa kalapastanganan ng bawat oras, maaari mong mahanap siya sa kanyang bike sa mga bundok o sa kalye na pumapalibot sa Cache Valley. Justin ay matatagpuan sa pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Walang mga kurso sa index sa wikang ito. Bisitahin ang <a href=\"{{folksemantic_link}}\">website ng Folksemantic</a> para buksan ang mga resources na edukasyon sa wikang ito."
     no_courses_found: "Walang mga kurso ay natagpuan para sa <b>{{query}}.</b>"
     search_courses: "paghahanap sa mga kurso"
     show_tagged_resources: "Ipakita ang Lahat ng OERs"

@@ -32,6 +32,7 @@ ko:
     explore: "웹 검색"
     joel_bio: "entrepenuer 및 프로그래머가 수학과 과학에 대한 사랑입니다. 조엘을 지속적으로하는 방법을 설계 및 과학에 종사하는 청소년 권장 소프트웨어 시스템과 온라인 콘텐츠 활용에 대한 여행중입니다, 기술, 공학, 수학."
     justin_bio: "소프트웨어 컨설턴트와 사업가 루비에 대한 열정입니다. 그는 C + +의 진화 및. 닷넷 원숭이 비단뱀 프로그래머에 마지막으로 루비를 발견. 굉장히 중요한 순간에, 코드에 대한 얘기를하는 코드를 작성하지 않거나 때 시속 욕설 자신의 코드 생산성 측정, 당신은 산속에있는 자신의 자전거 도로를 캐시 계곡 주변에서 그를 찾을 수있습니다. 저스틴 <a href=\"http://www.justinball.com\">http://www.justinball.com에서</a> 가라사대 찾을 수있습니다."
+    no_courses: "아무 과목이 언어의 색인을 생성합니다. 공개 교육 자원에 대한 해당 언어로 <a href=\"{{folksemantic_link}}\">Folksemantic 웹 사이트를</a> 방문하십시오."
     no_courses_found: "아니 과정 <b>{{query}}</b> 찾을 수없습니다."
     search_courses: "검색 과정"
     show_tagged_resources: "모두보기 OERs"

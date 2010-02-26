@@ -32,6 +32,7 @@ id:
     explore: "Cari Web"
     joel_bio: "adalah entrepenuer dan pemrogram dengan cinta untuk Matematika dan Sains. Joel terus-menerus licik tentang bagaimana merancang dan memanfaatkan sistem perangkat lunak dan konten online untuk mendorong pemuda untuk terlibat dalam ilmu pengetahuan, teknologi, teknik, dan matematika."
     justin_bio: "adalah sebuah perangkat lunak konsultan dan pengusaha dengan hasrat untuk Ruby. Ia berevolusi dari C + + dan. Net monyet menjadi piton programmer dan akhirnya menemukan Ruby. Pada saat langka ketika ia tidak menulis kode, berbicara tentang kode atau kode-nya mengukur produktivitas dalam senonoh per jam, Anda dapat menemukannya pada sepeda di pegunungan atau di jalan-jalan sekitar Cache Valley. Justin dapat ditemukan pontificating di <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Tidak ada kursus diindeks dalam bahasa ini. Kunjungi <a href=\"{{folksemantic_link}}\">situs Folksemantic</a> untuk membuka sumber daya pendidikan dalam bahasa ini."
     no_courses_found: "Tidak ada kursus yang ditemukan untuk <b>{{query}}.</b>"
     search_courses: "cari kursus"
     show_tagged_resources: "Tampilkan Semua OERs"

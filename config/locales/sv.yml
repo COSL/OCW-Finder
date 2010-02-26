@@ -32,6 +32,7 @@ sv:
     explore: "Sök på webben"
     joel_bio: "är entrepenuer och programmerare med en kärlek för matematik och naturvetenskap. Joel ständigt intrigerande om hur man designar och utnyttja mjukvarusystem och online-innehåll för att uppmuntra ungdomar att engagera sig i vetenskap, teknik, teknik och matematik."
     justin_bio: "är en programvara konsult och entreprenör med passion för Ruby. Han utvecklades från C + + och. Net apa i en Python-programmerare och äntligen hittat Ruby. I de sällsynta tillfällen då han inte skriva kod, talar om kod eller mäta sin kod produktiviteten i svordomar per timme, kan du finna honom på sin motorcykel i bergen eller på vägarna kring Cache Valley. Justin kan hittas PREDIKSTOLEN på <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Det finns inga kurser indexeras på detta språk. Besök <a href=\"{{folksemantic_link}}\">Folksemantic webbplats</a> för öppna utbildningsresurser på detta språk."
     no_courses_found: "Inga kurser hittades för <b>{{query}}.</b>"
     search_courses: "Sök kurser"
     show_tagged_resources: "Visa alla Oers"

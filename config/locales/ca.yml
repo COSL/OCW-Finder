@@ -32,6 +32,7 @@ ca:
     explore: "Cerca al Web"
     joel_bio: "és un nou empresari i el programador amb un amor per les matemàtiques i ciències. Joel està contínuament maquinant sobre com dissenyar i aprofitar els sistemes de programari i continguts en línia per encoratjar els joves a participar en la ciència, tecnologia, enginyeria i matemàtiques."
     justin_bio: "és un consultor de programari i empresari amb una passió per Ruby. El passat de C + + i. Net mico en un programador de Python i finalment va trobar Ruby. En els rars moments quan no està escrivint el codi, codi o parlant de la mesura de la productivitat del seu codi a profans per hora, se li pot trobar en la seva bicicleta a les muntanyes o en les carreteres que envolten Cache Valley. Justin es pot trobar a pontificar <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "No hi ha cursos indexada en aquest idioma. Visiteu el <a href=\"{{folksemantic_link}}\">lloc web de Folksemantic</a> de recursos d&#39;educació oberta en aquest idioma."
     no_courses_found: "No hi ha cursos s&#39;han trobat <b>{{query}}.</b>"
     search_courses: "Cerca de cursos"
     show_tagged_resources: "Mostra tots els OER"

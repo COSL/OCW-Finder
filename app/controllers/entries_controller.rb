@@ -1,11 +1,13 @@
 class EntriesController < Muck::EntriesController
 
   caches_page [:index, :list_tags, :browse_courses]
+
+  @@courses_count = Hash.new
   
   def index
     @tag_cloud = TagCloud.language_tags(Language.locale_id, @grain_size) unless fragment_exist?({:controller => 'entries', :action => 'index', :language => Language.locale_id})
     respond_to do |format|
-      format.html { render :template => 'entries/index' }
+      format.html { render :template => courses_count(Language.locale_id) == 0 ? 'entries/none' : 'entries/index' }
     end
   end
 
@@ -55,6 +57,11 @@ class EntriesController < Muck::EntriesController
     @hit_count = 0
     @results = []
     flash[:error] = t('muck.services.search_problem') + '<p class="support-information">Information for support: <br />' + ex.to_s + '</p>'
+  end
+
+  def courses_count(language_id)
+    @@courses_count[language_id] ||= Entry.count(:all, :conditions => ["grain_size = 'course' AND language_id = ?",language_id])
+    @@courses_count[language_id]
   end
 
 end

@@ -32,6 +32,7 @@ mt:
     explore: "Search the Web"
     joel_bio: "huwa entrepenuer u programmer bi mħabba għall-Matematika u Xjenza. Joel huwa kontinwament scheming dwar kif id-disinn u l-lieva sistemi ta &#39;software u l-kontenut onlajn biex tinkoraġġixxi ż-żgħażagħ biex jimpenjaw ruħhom fix-xjenza, teknoloġija, l-inġinerija, u l-matematika."
     justin_bio: "hija konsulent tas-softwer u l-intraprenditur ma passjoni għal Ruby. Huwa evolvew minn C u + +. Xadini Net fi programmer python u finalment misjuba Ruby. Fil-mumenti rari meta huwa ma jkunx bil-miktub tal-kodiċi, jitkellem dwar il-kodiċi jew il-kodiċi tal-kejl tal-produttività tiegħu fil profanity fis-siegħa, tista &#39;ssib lilu bir-rota tiegħu fil-muntanji jew fuq it-toroq tal-madwar Cache Valley. Justin tista &#39;tinstab fuq pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "M&#39;hemm l-ebda korsijiet indiċizzati f&#39;din il-lingwa. Żur <a href=\"{{folksemantic_link}}\">il-websajt Folksemantic</a> għar-riżorsi edukazzjoni miftuħa f&#39;din il-lingwa."
     no_courses_found: "Nru korsijiet kienu misjuba għal <b>{{query}}.</b>"
     search_courses: "Tfittxija korsijiet"
     show_tagged_resources: "Show All OERs"

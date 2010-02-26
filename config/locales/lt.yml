@@ -32,6 +32,7 @@ lt:
     explore: "Paieška internete"
     joel_bio: "yra entrepenuer ir programuotojas su matematikos ir mokslo meilės. Joel nuolat machinacijos apie tai, kaip dizainas ir sverto sistemų programinės įrangos ir interneto turinio skatinti jaunimą įsitraukti į mokslo, technologijos, inžinerijos ir matematikos."
     justin_bio: "yra programinės įrangos konsultantas, verslininkas ir su for Ruby aistra. Jis vystėsi nuo C + +. NET beždžionė į python programuotojas ir pagaliau rado Ruby. Tais retais momentais, kai jis negali rašyti kodą, kalbant apie kodo arba jo matavimo kodas našumo nešvankybių per valandą, galite rasti jį į savo dviračiu kalnuose ar ant kelių aplinkinių Cache Valley. Justin galima rasti pamokslai ne <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Nėra kursai indeksuoti šią kalbą. Aplankykite <a href=\"{{folksemantic_link}}\">svetainę Folksemantic</a> atvirų mokymo išteklių šia kalba."
     no_courses_found: "Nr kursai nerasta <b>{{query}}.</b>"
     search_courses: "Ieškoti kursų"
     show_tagged_resources: "Rodyti visus OERs"

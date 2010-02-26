@@ -32,6 +32,7 @@ zh-CN:
     explore: 搜索Web
     joel_bio: 是entrepenuer，并为数学和科学的爱程序员。乔尔是一贯图谋有关如何设计和利用软件系统和网上内容，鼓励青年从事科学，技术，工程和数学。
     justin_bio: "是一个软件顾问和Ruby的热情企业家。他已经从C + +和。净猴子到一个Python程序员，终于找到了红宝石。在难得的时刻，他不写代码，有关代码讨论或测量每小时生产率亵渎他的代码，你可以找到他的自行车在山区或道路周边缓存谷他。贾斯汀可在<a href=\"http://www.justinball.com\">http://www.justinball.com</a>而论道。"
+    no_courses: "有各种语言的索引没有课程。访问开放的教育资源，这种语言的<a href=\"{{folksemantic_link}}\">Folksemantic网站</a> 。"
     no_courses_found: "没有课程找到<b>{{query}}。</b>"
     search_courses: 搜索课程
     show_tagged_resources: 显示所有Oers继续

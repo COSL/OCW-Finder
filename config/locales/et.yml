@@ -32,6 +32,7 @@ et:
     explore: "Search the Web"
     joel_bio: "on entrepenuer ja programmeerija on armastus Math and Science. Joel on jätkuvalt intrigeeriv, kuidas kavandada ja võimendama tarkvarasüsteemide ja Internetis julgustada noori tegelema teaduse, tehnika, tehnoloogia ja matemaatika."
     justin_bio: "on tarkvara konsultant ja ettevõtja koos kirg Ruby. Ta arenes välja C + +. Puhas ahv arvesse Pythoni programmeerija ja lõpuks leiti Ruby. Neil harvadel hetkedel, kui ta ei kirjuta koodi, räägime koodi või mõõta oma koodi tootlikkuse vandumine tunni kohta, leiate teda jalgrattaga mägedes või teed ümbritsevale Cache Valley. Justin võib leida pontificating kell <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Puuduvad kursused indekseeritud selles keeles. Külasta <a href=\"{{folksemantic_link}}\">Folksemantic koduleheküljel</a> avatud hariduse vahenditest selles keeles."
     no_courses_found: "Nr kursuseid ei leitud <b>{{query}}.</b>"
     search_courses: "Otsi kursusi"
     show_tagged_resources: "Näita Kõiki OERs"

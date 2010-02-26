@@ -32,6 +32,7 @@ nl:
     explore: "Zoeken op het web"
     joel_bio: "is een entrepenuer en programmeur met een liefde voor wiskunde en wetenschappen. Joel is voortdurend gekonkel over het ontwerp en de hefboomwerking software systemen en online-inhoud om de jeugd te stimuleren om deel te nemen in wetenschap, technologie, techniek en wiskunde."
     justin_bio: "is een software consultant en ondernemer met een passie voor Ruby. Hij evolueerde van C + + en. Netto aap in een python programmeur en eindelijk gevonden Ruby. In de zeldzame momenten dat hij niet het schrijven van code, het over-code of het meten van de productiviteit in zijn code vloeken per uur, kan je hem vinden op zijn fiets in de bergen of op de wegen rondom Cache Valley. Justin is te vinden op Orakelt <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Er zijn geen cursussen geïndexeerd in deze taal. Bezoek de <a href=\"{{folksemantic_link}}\">website Folksemantic</a> voor open onderwijs middelen in deze taal."
     no_courses_found: "Geen cursussen gevonden voor <b>{{query}}.</b>"
     search_courses: "Zoek cursussen"
     show_tagged_resources: "Toon Alle Oers"

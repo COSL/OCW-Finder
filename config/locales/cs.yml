@@ -32,6 +32,7 @@ cs:
     explore: "Hledat na webu"
     joel_bio: "Je entrepenuer programátor s láskou pro matematiku a přírodní vědy. Joel je neustále machinací o tom, jak navrhovat a využívat softwarové systémy a on-line obsahu na podporu mládeže, aby se zapojily do oblasti vědy, techniky, inženýrství a matematice."
     justin_bio: "je softwarový poradce a podnikatel s vášní pro Ruby. Ten se vyvinul z C + + a. Čisté opice do python programátora a nakonec našel Ruby. Ve vzácných chvílích, kdy není psaní kódu, mluví o kódu nebo číslo jeho měření produktivity v rouhání za hodinu, najdete ho na kole v horách nebo na silnicích v okolí Cache Valley. Justin lze nalézt na poučováním <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Nejsou k dispozici žádné kurzy indexovány v tomto jazyce. Navštivte <a href=\"{{folksemantic_link}}\">internetové stránky Folksemantic</a> pro zdrojů otevřeného vzdělávání v tomto jazyce."
     no_courses_found: "Nebyly nalezeny žádné kurzy pro <b>{{query}}.</b>"
     search_courses: "Hledání kurzů"
     show_tagged_resources: "Zobrazit všechny OERs"

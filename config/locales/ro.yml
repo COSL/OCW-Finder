@@ -32,6 +32,7 @@ ro:
     explore: "Căutaţi pe Web"
     joel_bio: "este un entrepenuer şi programator, cu o dragoste pentru matematica si stiinta. Joel este de intrigă în permanenţă cu privire la modul de proiectare şi de pârghie sisteme software şi de conţinut online, pentru a încuraja tinerii să se angajeze în ştiinţă, tehnologie, inginerie, şi matematică."
     justin_bio: "este un consultant software şi antreprenor cu o pasiune pentru Ruby. El a evoluat de la C + + şi. Maimuţă net într-un programator Python şi găsit în sfârşit Ruby. În momente rare, atunci când nu el este scrierea de cod, vorbind despre codul sau de măsurare a productivităţii sale de cod în profanitate pe oră, puteţi găsi-l pe bicicleta la munte sau de pe drumurile din jurul Cache Valley. Justin pot fi găsite la pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Nu există cursuri de indexate în această limbă. Vizitaţi <a href=\"{{folksemantic_link}}\">site-ul web Folksemantic</a> pentru resurse educaţionale deschise în această limbă."
     no_courses_found: "Nu au fost gasite cursuri pentru <b>{{query}}.</b>"
     search_courses: "cursuri de căutare"
     show_tagged_resources: "Show All OERs"

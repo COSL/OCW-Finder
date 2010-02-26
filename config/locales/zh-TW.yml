@@ -32,6 +32,7 @@ zh-TW:
     explore: 搜索Web
     joel_bio: 是entrepenuer和編程的熱愛數學和科學。喬爾是一貫圖謀有關如何設計和利用軟件系統和網上內容，鼓勵青年從事科學，技術，工程和數學。
     justin_bio: "是一個軟件顧問和企業家的熱情紅寶石。他已經從 C + +和。淨猴子到一個 Python程序員，終於找到了紅寶石。在難得的時刻，他不寫代碼，代碼或者談論他的代碼生產率衡量的褻瀆每小時，你可以找到他對他的自行車在山區或道路周邊緩存山谷。賈斯汀可居高臨下的<a href=\"http://www.justinball.com\">http://www.justinball.com。</a>"
+    no_courses: "沒有索引的課程，在這種語言。訪問<a href=\"{{folksemantic_link}}\">Folksemantic網站</a>開放教育資源，在這種語言。"
     no_courses_found: "沒有課程找到<b>{{query}}。</b>"
     search_courses: 搜索課程
     show_tagged_resources: 顯示所有Oers繼續

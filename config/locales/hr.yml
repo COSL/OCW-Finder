@@ -32,6 +32,7 @@ hr:
     explore: "Search the Web"
     joel_bio: "je entrepenuer i programer sa ljubavlju prema matematici i znanosti. Joel stalno intrigantski o tome kako dizajnirati i poluge softverskih sustava i online sadržaje potaknuti mlade da se uključe u području znanosti, tehnologije, inženjeringa, i matematike."
     justin_bio: "je softver savjetnik i poduzetnik sa strast za Ruby. On se razvio iz C + +-a. Neto majmun u python programer i napokon postaviti Ruby. U rijetkim trenucima kad mu se ne piše broj, govori o šifra ili kôd za mjerenje njegove produktivnosti po satu u vulgarnost, možete ga naći na njegov bicikl u planinama ili na okolnim cestama Cache Valley. Justin se mogu naći na pontificating <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Nema tečajevi indeksiran je u tom jeziku. Posjetite <a href=\"{{folksemantic_link}}\">web stranicu Folksemantic</a> otvoren za obrazovanje resursa u tom jeziku."
     no_courses_found: "Nema tečajevi pronađeni su za <b>{{query}}.</b>"
     search_courses: "Pretraži kolegije"
     show_tagged_resources: "Show All OERs"

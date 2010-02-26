@@ -32,6 +32,7 @@ hu:
     explore: "Keresés a weben"
     joel_bio: "van egy entrepenuer és programozó a szerelem matematika és természettudományok területén. Joel folyamatosan cselszövő, hogyan lehet a tervezési és kiegyenlítő rendszerek és a szoftverek az online tartalmak, hogy ösztönözzék a fiatalok, hogy vegyenek részt a tudomány, a technológia, a mérnöki, és a matematika."
     justin_bio: "egy szoftver-és tanácsadó vállalkozóként egy szenvedélyes Ruby. Úgy alakult a C + + és. Net majom egy python programozó és végül talált Ruby. Azokban a ritka pillanatokban, amikor nincs kód írása beszélünk kód vagy a mérési kódot termelékenység káromkodás óránként, talál neki a kerékpárt, a hegyekben vagy a környező utakon Cache Valley. Justin megtalálható pontificating a <a href=\"http://www.justinball.com\">http://www.justinball.com.</a>"
+    no_courses: "Nincsenek tanfolyamok indexelt ezen a nyelven. Látogasson el a <a href=\"{{folksemantic_link}}\">Folksemantic honlapon</a> nyílt oktatási források ezen a nyelven."
     no_courses_found: "Nincs tanfolyamokat talált <b>{{query}}.</b>"
     search_courses: "Kurzusok keresése"
     show_tagged_resources: "Összes OERs"
